@@ -1,0 +1,79 @@
+[
+  {
+    "Author": "Roxyz0501",
+    "Name": "Glamour Saver",
+    "InternalName": "GlamourSaver",
+    "AssemblyVersion": "0.5.0.0",
+    "Description": "Adds a SendDiscord button beside the Examine window. Only when pressed, it posts a cropped image, target character name, appearance item names, and Eorzea Database search links to the configured Discord Webhook. The UI supports English and Japanese.",
+    "Punchline": "Save an examined character's glamour to Discord with one explicit click.",
+    "Tags": [
+      "glamour",
+      "discord",
+      "screenshot",
+      "ミラプリ",
+      "コーディネート"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Roxyz0501/GlamourSaver",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/GlamourSaver/main/GlamourSaver/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/GlamourSaver/releases/download/v0.5.0.0/GlamourSaver-0.5.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/GlamourSaver/releases/download/v0.5.0.0/GlamourSaver-0.5.0.0.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1787161500,
+    "Changelog": "Initial public release with English/Japanese UI and one-time first-launch language selection."
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Character Archive",
+    "InternalName": "CharacterArchive",
+    "AssemblyVersion": "0.5.0.0",
+    "Description": "Stores logged-in character details, jobs, playtime, Lodestone IDs, and configuration-folder mappings locally, then presents them in a searchable UI and CSV export. Optional external lookup and login-time playtime acquisition require explicit settings.",
+    "Punchline": "Manage characters, jobs, playtime, Lodestone profiles, and configuration folders.",
+    "Tags": [
+      "character",
+      "config",
+      "csv",
+      "lodestone",
+      "playtime"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Roxyz0501/CharacterArchive",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v0.5.0.0/CharacterArchive-0.5.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v0.5.0.0/CharacterArchive-0.5.0.0.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1787161500,
+    "Changelog": "Initial public release with English/Japanese UI, localized CSV labels, and bilingual documentation."
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Aether Current Navigator",
+    "InternalName": "AetherCurrentUnlocker",
+    "AssemblyVersion": "0.3.0.0",
+    "Description": "Shows field Aether Current and quest progress by expansion and area. It can process the current area or a selected expansion, using vnavmesh for field travel and Questionable for quests. Includes a map view, individual actions, route recalculation, and English/Japanese UI.",
+    "Punchline": "Visualize and unlock Aether Currents across every expansion.",
+    "Tags": [
+      "aether-current",
+      "quest",
+      "automation",
+      "utility"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Roxyz0501/AetherCurrentUnlocker",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherCurrentUnlocker/main/AetherCurrentUnlocker/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherCurrentUnlocker/releases/download/v0.3.0.0/AetherCurrentUnlocker-0.3.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherCurrentUnlocker/releases/download/v0.3.0.0/AetherCurrentUnlocker-0.3.0.0.zip",
+    "RequiredPlugins": [
+      "vnavmesh",
+      "Questionable"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1787161500,
+    "Changelog": "Initial public release with English/Japanese UI, localized game-data names, and persistent language selection."
+  }
+]
