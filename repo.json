@@ -81,7 +81,7 @@
     "Author": "Roxyz0501",
     "Name": "BGMPlayer",
     "InternalName": "AetherRadio",
-    "AssemblyVersion": "0.1.3.0",
+    "AssemblyVersion": "0.1.4.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "ゲーム内のBGMを選んで再生できます。",
@@ -95,13 +95,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.3.0/AetherRadio-0.1.3.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.3.0/AetherRadio-0.1.3.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.3.0/AetherRadio-0.1.3.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.4.0/AetherRadio-0.1.4.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.4.0/AetherRadio-0.1.4.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.4.0/AetherRadio-0.1.4.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "RequiredPlugins": [],
-    "LastUpdate": 1791047282,
-    "Changelog": "BGMPlayerに改名。/bgmplayer でウィンドウを画面内の手前に表示します。既存のマイリスト・設定を引き継ぎ、旧コマンドも互換用に維持。"
+    "LastUpdate": 1791049365,
+    "Changelog": "ログアウト時に再生・BGM固定・再生キューをリセットし、次回再生時にエンジンを作り直します。マイリストや設定は保持します。"
   }
 ]
