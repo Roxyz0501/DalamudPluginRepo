@@ -22,6 +22,7 @@ Add this URL to Dalamud:
 - [Glamour Saver](https://github.com/Roxyz0501/GlamourSaver)
 - [Character Archive](https://github.com/Roxyz0501/CharacterArchive)
 - [Aether Current Navigator](https://github.com/Roxyz0501/AetherCurrentUnlocker)
+- [Aether Radio](https://github.com/Roxyz0501/AetherRadio) — initial preview; native in-game playback testing is pending.
 
 Each plugin keeps its source, issues, license, and releases in its own GitHub repository. Release ZIPs referenced by `repo.json` are immutable, versioned GitHub Release assets.
 
