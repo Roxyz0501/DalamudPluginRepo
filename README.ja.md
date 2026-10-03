@@ -22,7 +22,7 @@ Dalamudへ次のURLを追加してください。
 - [Glamour Saver](https://github.com/Roxyz0501/GlamourSaver)
 - [Character Archive](https://github.com/Roxyz0501/CharacterArchive)
 - [Aether Current Navigator](https://github.com/Roxyz0501/AetherCurrentUnlocker)
-- [Aether Radio](https://github.com/Roxyz0501/AetherRadio) — 初回公開プレビュー。ゲーム内音声再生の実機確認は未完了です。
+- [BGMPlayer](https://github.com/Roxyz0501/AetherRadio) — プレビュー。ゲーム内音声再生の実機確認は未完了です。
 
 各プラグインのソース、Issues、ライセンス、Releaseは、それぞれ個別のGitHubリポジトリで管理しています。`repo.json`はバージョン固定されたGitHub Release ZIPを参照します。
 
