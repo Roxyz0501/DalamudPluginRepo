@@ -81,11 +81,11 @@
     "Author": "Roxyz0501",
     "Name": "Aether Radio",
     "InternalName": "AetherRadio",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
-    "Punchline": "画面の片隅に、あなた専用のBGMプレイヤー。",
-    "Description": "拡張・コンテンツ・フィールドからBGMを選択。ミニプレイヤー、マイリスト、ランダム再生、ローカルBGM固定に対応。 /aetherradio 初回公開プレビュー。ゲーム内の再生・固定・復帰は実機未検証です。",
+    "Punchline": "ゲーム内のBGMを選んで再生できます。",
+    "Description": "拡張・ジャンルのタブとコンテンツ名で曲を探せるBGMプレイヤーです。お気に入り、マイリスト、ランダム再生に対応しています。ミニプレイヤーは上部をドラッグして移動できます。\n\n/aetherradio で開く\n/aetherradio stop で通常のBGMに戻す",
     "Tags": [
       "music",
       "bgm",
@@ -95,13 +95,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.0.0/AetherRadio-0.1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.0.0/AetherRadio-0.1.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.0.0/AetherRadio-0.1.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.1.0/AetherRadio-0.1.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.1.0/AetherRadio-0.1.1.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.1.0/AetherRadio-0.1.1.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "RequiredPlugins": [],
-    "LastUpdate": 1791034800,
-    "Changelog": "Initial public preview: BGM library, mini player, playlists, shuffle and local BGM lock. In-game playback validation is pending."
+    "LastUpdate": 1791044962,
+    "Changelog": "ミニプレイヤーの移動と位置保存を修正。LUNEを参考にデザインを変更。拡張・ジャンルのタブ、コンテンツ選択、ページ送りなしの曲一覧に対応。曲名不明時の表示と説明文を整理。"
   }
 ]
