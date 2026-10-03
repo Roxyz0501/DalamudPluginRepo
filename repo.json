@@ -81,7 +81,7 @@
     "Author": "Roxyz0501",
     "Name": "Aether Radio",
     "InternalName": "AetherRadio",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.2.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "ゲーム内のBGMを選んで再生できます。",
@@ -95,13 +95,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.1.0/AetherRadio-0.1.1.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.1.0/AetherRadio-0.1.1.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.1.0/AetherRadio-0.1.1.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.2.0/AetherRadio-0.1.2.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.2.0/AetherRadio-0.1.2.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.2.0/AetherRadio-0.1.2.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "RequiredPlugins": [],
-    "LastUpdate": 1791044962,
-    "Changelog": "ミニプレイヤーの移動と位置保存を修正。LUNEを参考にデザインを変更。拡張・ジャンルのタブ、コンテンツ選択、ページ送りなしの曲一覧に対応。曲名不明時の表示と説明文を整理。"
+    "LastUpdate": 1791046351,
+    "Changelog": "音量スライダーによるゲーム設定の書き換えを削除。再生中のBGMだけに音量倍率を適用し、停止時に復元。SE・ボイス・環境音・マスター音量は変更しません。"
   }
 ]
