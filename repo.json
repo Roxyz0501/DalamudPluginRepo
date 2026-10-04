@@ -81,7 +81,7 @@
     "Author": "Roxyz0501",
     "Name": "BGMPlayer",
     "InternalName": "AetherRadio",
-    "AssemblyVersion": "0.1.5.0",
+    "AssemblyVersion": "0.1.7.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "ゲーム内のBGMを選んで再生できます。",
@@ -95,13 +95,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.5.0/AetherRadio-0.1.5.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.5.0/AetherRadio-0.1.5.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.5.0/AetherRadio-0.1.5.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.7.0/AetherRadio-0.1.7.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.7.0/AetherRadio-0.1.7.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.7.0/AetherRadio-0.1.7.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "RequiredPlugins": [],
-    "LastUpdate": 1791114206,
-    "Changelog": "オーケストリオン再生中の競合に対応。BGMPlayerの再生中だけ自分に聞こえるオーケストリオン音を抑え、停止・ログアウト時に戻します。"
+    "LastUpdate": 1791114697,
+    "Changelog": "音量を最大200%へ拡張。メイン・ミニにループボタンを追加し、初期設定を1曲ループにしました。既存の設定も一度だけ1曲ループへ移行します。"
   }
 ]
