@@ -1,5 +1,17 @@
 # Shared repository publication state
 
+## 2026-10-08 Retainer Recall initial publication
+
+- Added Retainer Recall 0.1.0.0, author Roxyz0501; new standalone plugin.
+- Source: https://github.com/Roxyz0501/RetainerRecall
+- Release: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v0.1.0.0
+- ZIP: https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.1.0.0/RetainerRecall-0.1.0.0.zip
+- Icon: https://raw.githubusercontent.com/Roxyz0501/RetainerRecall/main/images/icon.png
+- Repository/icon returned anonymous HTTP 200; icon content type image/png. Public ZIP downloaded and matched local SHA-256 `9A1C65AF1FB8D6AE79A44C3AE24540E51F7AB455F8E0C958A9A218C32C702511`.
+- Packaged author, RepoUrl, IconUrl and notices checked; original 512x512 icon included. No other plugin dependencies; Dalamud API 15/.NET 10/x64.
+- Clean Release build: zero warnings/errors; 27 managed checks passed. In-game native retrieval/UI placement remain unverified and disclosed.
+- Existing four plugin entries preserved. Shared-index remote verification pending.
+
 Updated: 2026-10-04 (JST).
 
 - Shared index: https://raw.githubusercontent.com/Roxyz0501/DalamudPluginRepo/main/repo.json

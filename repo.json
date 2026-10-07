@@ -103,5 +103,32 @@
     "RequiredPlugins": [],
     "LastUpdate": 1791114697,
     "Changelog": "音量を最大200%へ拡張。メイン・ミニにループボタンを追加し、初期設定を1曲ループにしました。既存の設定も一度だけ1曲ループへ移行します。"
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Retainer Recall",
+    "InternalName": "RetainerRecall",
+    "AssemblyVersion": "0.1.0.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "Punchline": "出品中のアイテムをプレイヤー・リテイナーの所持品へ一括回収",
+    "Description": "販売リストの左下に2つの回収ボタンを表示します。各ボタンの表示、待機秒数、位置を設定可能。1件ずつ結果を確認して回収します。初期公開版・実機検証待ち。設定: /retainerrecall",
+    "RepoUrl": "https://github.com/Roxyz0501/RetainerRecall",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/RetainerRecall/main/images/icon.png",
+    "Tags": [
+      "retainer",
+      "inventory",
+      "market",
+      "リテイナー",
+      "出品回収"
+    ],
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.1.0.0/RetainerRecall-0.1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.1.0.0/RetainerRecall-0.1.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.1.0.0/RetainerRecall-0.1.0.0.zip",
+    "RequiredPlugins": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1791394093,
+    "Changelog": "初期公開版。プレイヤー・リテイナーへの出品一括回収、ボタン別表示・待機時間・位置設定。ゲーム内動作は未検証。"
   }
 ]
