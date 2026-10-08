@@ -131,5 +131,31 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1791430918,
     "Changelog": "Retainer Listing Helperに改称。/retainerlisting、ログイン中のNQ/HQ共通価格記憶、右Alt＋右クリック連続出品、Marketbuddy数量参照を追加。出品・取り下げを通常UIメニュー経由に統一。実機検証待ち。"
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Allagan Local",
+    "InternalName": "AllaganLocalPlugin",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Requires Allagan Tools for inventory and gil data; AllaganMarket is additionally required for market sales history. These source plugins must record and save data. Settings show their installed/running status. Starts the bundled local website when loaded; open it from settings or /allaganlocal. Seven interface languages.",
+    "Punchline": "Local inventory, gil and market history dashboard",
+    "Tags": [
+      "inventory",
+      "retainer",
+      "market",
+      "local",
+      "dashboard"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Roxyz0501/AllaganLocal",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AllaganLocal/main/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.1.0.0/AllaganLocalPlugin-0.1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.1.0.0/AllaganLocalPlugin-0.1.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.1.0.0/AllaganLocalPlugin-0.1.0.0.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1791432045,
+    "Changelog": "Initial public preview. Requires Allagan Tools for inventory/gil and AllaganMarket for sales history. Bundled local server, seven UI languages and source-plugin status. In-game acceptance remains unverified."
   }
 ]

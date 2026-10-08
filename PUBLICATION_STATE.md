@@ -1,5 +1,17 @@
 # Shared repository publication state
 
+## 2026-10-08 Allagan Local 0.1.0.0
+
+- Initial public preview, new standalone plugin, author Roxyz0501.
+- Source: https://github.com/Roxyz0501/AllaganLocal
+- Release: https://github.com/Roxyz0501/AllaganLocal/releases/tag/v0.1.0.0
+- ZIP: https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.1.0.0/AllaganLocalPlugin-0.1.0.0.zip
+- SHA-256: `CAC3985CD433F1A8DADCAC90DFCB8AD6046BF95862481438C58BB256C4D6EBCF`.
+- Source/icon anonymous HTTP 200 and image/png verified. Downloaded ZIP identity, notices and absence of personal data checked.
+- Requires Allagan Tools saved inventory/gil; AllaganMarket additionally required for sales history. Sources are not bundled. Node.js runtime and complete license bundled.
+- Clean Release build, 39 site tests, six host lifecycle checks, packaged startup and seven locale dictionaries verified. In-game acceptance and complete translations remain pending and disclosed.
+- Five existing index entries preserved.
+
 ## 2026-10-08 Retainer Listing Helper 0.2.0.0
 
 - Updated existing RetainerRecall entry to display name Retainer Listing Helper. Source/internal identity retained.
