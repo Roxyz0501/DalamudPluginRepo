@@ -19,6 +19,8 @@ Dalamudへ次のURLを追加してください。
 
 ## 収録プラグイン
 
+- [Allagan Local](https://github.com/Roxyz0501/AllaganLocal) — 所持品・所持金・販売履歴のローカルサイト。Allagan Toolsが必要、販売履歴にはAllaganMarketも必要です。公開プレビュー。
+
 - [Glamour Saver](https://github.com/Roxyz0501/GlamourSaver)
 - [Character Archive](https://github.com/Roxyz0501/CharacterArchive)
 - [Aether Current Navigator](https://github.com/Roxyz0501/AetherCurrentUnlocker)

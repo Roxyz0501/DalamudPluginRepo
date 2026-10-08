@@ -19,6 +19,8 @@ Add this URL to Dalamud:
 
 ## Included plugins
 
+- [Allagan Local](https://github.com/Roxyz0501/AllaganLocal) — local inventory, gil and sales dashboard. Requires Allagan Tools; sales history also requires AllaganMarket. Public preview.
+
 - [Glamour Saver](https://github.com/Roxyz0501/GlamourSaver)
 - [Character Archive](https://github.com/Roxyz0501/CharacterArchive)
 - [Aether Current Navigator](https://github.com/Roxyz0501/AetherCurrentUnlocker)

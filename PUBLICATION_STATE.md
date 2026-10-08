@@ -11,6 +11,7 @@
 - Requires Allagan Tools saved inventory/gil; AllaganMarket additionally required for sales history. Sources are not bundled. Node.js runtime and complete license bundled.
 - Clean Release build, 39 site tests, six host lifecycle checks, packaged startup and seven locale dictionaries verified. In-game acceptance and complete translations remain pending and disclosed.
 - Five existing index entries preserved.
+- Registration commit: `18bcc1658395cfd19a544dff033bf1f338f7203c`. Anonymous commit-pinned index verified with six entries. Normal main URL initially retained its cached five-entry response (max-age 300).
 
 ## 2026-10-08 Retainer Listing Helper 0.2.0.0
 
