@@ -2,6 +2,8 @@
 
 ## 2026-10-08 Allagan Local 0.2.0.0
 
+- Registration `1e165529bccec42614860284ef74397f6ce9655f` verified anonymously at commit-pinned and normal main URLs: HTTP 200, six entries, Allagan Local 0.2.0.0.
+
 - Release: https://github.com/Roxyz0501/AllaganLocal/releases/tag/v0.2.0.0
 - ZIP: https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.2.0.0/AllaganLocalPlugin-0.2.0.0.zip
 - Source: `450260521c130dc75730732a27057c39a49ab173`. SHA-256: `80EACB814A60EFFC8FDC33D3125E28EC9DFC10B2A2DCC32FB0E6553F5D810C1F`.
