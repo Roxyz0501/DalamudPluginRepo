@@ -8,7 +8,7 @@
 - Dedicated source release commit `8c70bb1`. Anonymous source/icon HTTP 200, image/png and downloaded public ZIP hash verified; packaged metadata and notices retained.
 - 0.1-second minimum listing/recall delay; armoury equipment included in player listing scans and recall acknowledgement; inventory shortcut observed after the original menu-opening function; chat diagnostics added.
 - Clean Release build, 90 managed checks and five isolated UI/command/persistence checks passed. In-game shortcut/armoury behavior and resolution of the reported full-armoury stop remain unverified.
-- Existing five other index entries preserved. Shared publication verification pending.
+- Anonymous commit-pinned and normal main shared index verified at registration commit `98d10e097dcd96852f744340d9d9afbef1172f9d`; six entries, with all five other plugins preserved.
 
 ## 2026-10-08 Allagan Local 0.1.0.0
 
