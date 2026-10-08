@@ -1,5 +1,14 @@
 # Shared repository publication state
 
+## 2026-10-08 Allagan Local 0.1.0.1
+
+- Release: https://github.com/Roxyz0501/AllaganLocal/releases/tag/v0.1.0.1
+- ZIP: https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.1.0.1/AllaganLocalPlugin-0.1.0.1.zip
+- SHA-256: `5ACEE10D54FFB8B202BA09A5C6504AF2BA03ED438A660E82708A0616ED220FE0`.
+- Startup remains enabled by default. Restart replaces only the owned server and also starts a stopped server. External processes remain untouched.
+- Optional local browser-settings migration seed restores missing preferences; no private seed/data is distributed.
+- Clean build, nine lifecycle checks, packaged startup and migration-preservation/cross-origin checks passed. Public ZIP hash/manifest verified. Native restart button has not been exercised in game.
+
 ## 2026-10-08 Retainer Listing Helper 0.2.0.3
 
 - Removed floating status/settings window. Settings remain available from the plugin installer and commands. No execution changes.
