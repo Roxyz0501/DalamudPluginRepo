@@ -9,7 +9,7 @@
 - Clean Release build, 81 managed checks and isolated configuration UI/command/persistence checks passed. In-game behavior and packet equivalence remain unverified and disclosed.
 - Anonymous source/icon HTTP 200, PNG content type and public ZIP hash verified; packaged identity, notices and absence of direct market movement calls checked.
 - SHA-256: `98E28252C72E2E43F6852C5B7FD5338E129CBB1FB41026D36431D14644D740FA`.
-- Other four plugin entries preserved. Remote shared-index verification pending.
+- Other four plugin entries preserved. Anonymous main and commit-pinned shared index verified at `df395dcf0697c2069e7788aa3cc35b01a0f40dc4` with new display name/version and ZIP URLs.
 
 ## 2026-10-08 Retainer Recall initial publication
 
