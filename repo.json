@@ -108,7 +108,7 @@
     "Author": "Roxyz0501",
     "Name": "Retainer Listing Helper",
     "InternalName": "RetainerRecall",
-    "AssemblyVersion": "0.2.0.2",
+    "AssemblyVersion": "0.2.0.3",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "保存単価での連続出品と、出品アイテムの一括回収を補助",
@@ -123,14 +123,14 @@
       "連続出品",
       "出品回収"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.2/RetainerRecall-0.2.0.2.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.2/RetainerRecall-0.2.0.2.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.2/RetainerRecall-0.2.0.2.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.3/RetainerRecall-0.2.0.3.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.3/RetainerRecall-0.2.0.3.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.3/RetainerRecall-0.2.0.3.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791433115,
-    "Changelog": "自動出品の確定クリックで入力データがnullになりクラッシュする不具合を修正。0.2.0.0/0.2.0.1から更新してください。管理コード90項目とネイティブ呼び出し境界12項目のテスト済み。修正後のゲーム内動作は未確認。"
+    "LastUpdate": 1791433985,
+    "Changelog": "状態メッセージと設定ボタンの小ウィンドウを削除。設定はプラグイン一覧または /retainerlisting から開けます。出品・回収処理は変更なし。"
   },
   {
     "Author": "Roxyz0501",

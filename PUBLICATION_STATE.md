@@ -1,5 +1,13 @@
 # Shared repository publication state
 
+## 2026-10-08 Retainer Listing Helper 0.2.0.3
+
+- Removed floating status/settings window. Settings remain available from the plugin installer and commands. No execution changes.
+- Release: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v0.2.0.3
+- ZIP: https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.3/RetainerRecall-0.2.0.3.zip
+- Source commit `341c6ee`; SHA-256 `67D4CAFCDC133732BF42D2A997B7F96C779A672B5CFDA2DD282B75A7F00C1C8E`.
+- Clean Release build and five existing UI harness checks passed. Public source/icon HTTP 200, image/png and ZIP hash/manifest verified. Five other entries preserved. Shared URL verification pending.
+
 ## 2026-10-08 Retainer Listing Helper 0.2.0.2 crash fix
 
 - Release: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v0.2.0.2
