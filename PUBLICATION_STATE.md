@@ -1,5 +1,15 @@
 # Shared repository publication state
 
+## 2026-10-08 Allagan Local 0.2.0.0
+
+- Release: https://github.com/Roxyz0501/AllaganLocal/releases/tag/v0.2.0.0
+- ZIP: https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.2.0.0/AllaganLocalPlugin-0.2.0.0.zip
+- Source: `450260521c130dc75730732a27057c39a49ab173`. SHA-256: `80EACB814A60EFFC8FDC33D3125E28EC9DFC10B2A2DCC32FB0E6553F5D810C1F`.
+- Seven-language localization, persisted language policy, live website synchronization and licensed CJK subsets.
+- Clean Release: zero warnings/errors; 410 localization checks, 42 web tests, nine lifecycle checks and isolated package checks passed. Native in-game acceptance remains unverified.
+- Anonymous public repository/icon HTTP 200 (image/png), downloaded ZIP hash and manifest URLs/author/version verified. All five other plugin entries preserved, including Character Archive 0.6.0.0 and Retainer Listing Helper 0.3.0.0.
+
+
 ## 2026-10-08 seven-language releases
 
 - Character Archive 0.6.0.0: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v0.6.0.0
