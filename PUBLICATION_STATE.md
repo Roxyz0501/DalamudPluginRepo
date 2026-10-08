@@ -1,5 +1,14 @@
 # Shared repository publication state
 
+## 2026-10-08 Retainer Listing Helper 0.2.0.2 crash fix
+
+- Release: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v0.2.0.2
+- ZIP: https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.2/RetainerRecall-0.2.0.2.zip
+- Source release commit: `7706ea0`; SHA-256: `2888F4FE1E0F20EF2E8E9FF8C2AC95D428D90C4BA98384E98F34E1CC8229144B`.
+- Fixes native listing confirmation crash caused by omitted AtkEventData. Registered click now receives initialized input; owner null check occurs before IsEnabled.
+- Clean Release build, 90 managed checks, 12 native ABI checks passed. Previous omitted argument fails the regression test. Corrected in-game operation remains unverified.
+- Anonymous repository/icon HTTP 200, image/png, downloaded ZIP metadata and hash verified. No raw crash data included. Five other plugin entries preserved; shared index verification pending.
+
 ## 2026-10-08 Retainer Listing Helper 0.2.0.1
 
 - Release: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v0.2.0.1
