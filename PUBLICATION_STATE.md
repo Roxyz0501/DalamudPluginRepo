@@ -1,5 +1,18 @@
 # Shared repository publication state
 
+## 2026-10-08 seven-language releases
+
+- Character Archive 0.6.0.0: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v0.6.0.0
+- ZIP: https://github.com/Roxyz0501/CharacterArchive/releases/download/v0.6.0.0/CharacterArchive-0.6.0.0.zip
+- Source commit: `afa953c58cfdbb5ac33b21d3bbf0680fa13eb889`; SHA-256: `642FE0054C613AB38F62AF3B85F0356675FA4313C30934D7A331342105CA1FC0`.
+- Retainer Listing Helper 0.3.0.0: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v0.3.0.0
+- ZIP: https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.3.0.0/RetainerRecall-0.3.0.0.zip
+- Source commit: `fcb166c367148e53e55c69ddd7dac3842b1c9ee0`; SHA-256: `D515D0DAC1C3B4835DA699E43EA266620D43210B85C1359E7CE72F7F003A634B`.
+- Both releases add ja/en/de/fr/ko/zh-Hans/zh-Hant selection, one-time game/Dalamud language detection and persisted manual choices. Character Archive CSV headers remain fixed for interoperability.
+- Clean Release builds passed with zero warnings/errors. Character Archive core/localization/CSV tests passed; Retainer Listing Helper passed 149 managed, 12 native boundary and 20 font/UI checks.
+- Dedicated source/icon URLs returned anonymous HTTP 200 (icons image/png); public ZIP hashes and packaged manifest metadata verified by each publishing task. In-game acceptance remains unverified; Retainer Listing Helper's full-armoury retrieval stop remains unresolved and disclosed.
+- Shared index updates only these two entries; four other plugins retain their existing public versions. Shared public index verification follows publication.
+
 ## 2026-10-08 Allagan Local 0.1.0.1
 
 - Release: https://github.com/Roxyz0501/AllaganLocal/releases/tag/v0.1.0.1

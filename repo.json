@@ -28,7 +28,7 @@
     "Author": "Roxyz0501",
     "Name": "Character Archive",
     "InternalName": "CharacterArchive",
-    "AssemblyVersion": "0.5.1.0",
+    "AssemblyVersion": "0.6.0.0",
     "Description": "Stores logged-in character details, jobs, playtime, Lodestone IDs, and configuration-folder mappings locally, then presents them in a searchable UI and CSV export. Optional external lookup and login-time playtime acquisition require explicit settings.",
     "Punchline": "Manage characters, jobs, playtime, Lodestone profiles, and configuration folders.",
     "Tags": [
@@ -42,12 +42,12 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/CharacterArchive",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CharacterArchive/main/CharacterArchive/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v0.5.1.0/CharacterArchive-0.5.1.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v0.5.1.0/CharacterArchive-0.5.1.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v0.6.0.0/CharacterArchive-0.6.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v0.6.0.0/CharacterArchive-0.6.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1787211704,
-    "Changelog": "Added a new Character Archive icon and an explicit GitHub repository button."
+    "LastUpdate": 1791438371,
+    "Changelog": "Added Japanese, English, German, French, Korean, Simplified Chinese and Traditional Chinese UI. Initial language is detected once; manual selections persist. CSV headers remain stable. In-game rendering validation is pending."
   },
   {
     "Author": "Roxyz0501",
@@ -108,7 +108,7 @@
     "Author": "Roxyz0501",
     "Name": "Retainer Listing Helper",
     "InternalName": "RetainerRecall",
-    "AssemblyVersion": "0.2.0.3",
+    "AssemblyVersion": "0.3.0.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "保存単価での連続出品と、出品アイテムの一括回収を補助",
@@ -123,14 +123,14 @@
       "連続出品",
       "出品回収"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.3/RetainerRecall-0.2.0.3.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.3/RetainerRecall-0.2.0.3.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.3/RetainerRecall-0.2.0.3.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.3.0.0/RetainerRecall-0.3.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.3.0.0/RetainerRecall-0.3.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.3.0.0/RetainerRecall-0.3.0.0.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791433985,
-    "Changelog": "状態メッセージと設定ボタンの小ウィンドウを削除。設定はプラグイン一覧または /retainerlisting から開けます。出品・回収処理は変更なし。"
+    "LastUpdate": 1791438371,
+    "Changelog": "設定・通知を7言語に対応。初回のみゲーム／Dalamud言語から選択し、手動設定を保存します。CJKフォント対応。ゲーム内動作は未確認、アーマリー満杯時の回収停止は引き続き未解決です。"
   },
   {
     "Author": "Roxyz0501",
