@@ -6,7 +6,7 @@
 - Release: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v0.2.0.3
 - ZIP: https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.3/RetainerRecall-0.2.0.3.zip
 - Source commit `341c6ee`; SHA-256 `67D4CAFCDC133732BF42D2A997B7F96C779A672B5CFDA2DD282B75A7F00C1C8E`.
-- Clean Release build and five existing UI harness checks passed. Public source/icon HTTP 200, image/png and ZIP hash/manifest verified. Five other entries preserved. Shared URL verification pending.
+- Clean Release build and five existing UI harness checks passed. Public source/icon HTTP 200, image/png and ZIP hash/manifest verified. Five other entries preserved. Shared registration `d5d7d29a19961b54ddd578860fb14fcc076f6f21` verified at the anonymous commit-pinned URL with six entries. Normal main URL still returned cached 0.2.0.2 at verification, including after no-cache revalidation; installer visibility may be delayed by CDN caching.
 
 ## 2026-10-08 Retainer Listing Helper 0.2.0.2 crash fix
 
