@@ -1,5 +1,16 @@
 # Shared repository publication state
 
+## 2026-10-08 Retainer Listing Helper 0.2.0.0
+
+- Updated existing RetainerRecall entry to display name Retainer Listing Helper. Source/internal identity retained.
+- Release: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v0.2.0.0
+- ZIP: https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.0/RetainerRecall-0.2.0.0.zip
+- Added session-only NQ/HQ-shared price memory, configurable shortcut/delay and Marketbuddy quantity-setting reads; listing and recall both use ordinary UI menus. Direct market movement calls removed.
+- Clean Release build, 81 managed checks and isolated configuration UI/command/persistence checks passed. In-game behavior and packet equivalence remain unverified and disclosed.
+- Anonymous source/icon HTTP 200, PNG content type and public ZIP hash verified; packaged identity, notices and absence of direct market movement calls checked.
+- SHA-256: `98E28252C72E2E43F6852C5B7FD5338E129CBB1FB41026D36431D14644D740FA`.
+- Other four plugin entries preserved. Remote shared-index verification pending.
+
 ## 2026-10-08 Retainer Recall initial publication
 
 - Added Retainer Recall 0.1.0.0, author Roxyz0501; new standalone plugin.

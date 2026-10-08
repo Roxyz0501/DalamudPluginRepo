@@ -106,13 +106,13 @@
   },
   {
     "Author": "Roxyz0501",
-    "Name": "Retainer Recall",
+    "Name": "Retainer Listing Helper",
     "InternalName": "RetainerRecall",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.2.0.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
-    "Punchline": "出品中のアイテムをプレイヤー・リテイナーの所持品へ一括回収",
-    "Description": "販売リストの左下に2つの回収ボタンを表示します。各ボタンの表示、待機秒数、位置を設定可能。1件ずつ結果を確認して回収します。初期公開版・実機検証待ち。設定: /retainerrecall",
+    "Punchline": "保存単価での連続出品と、出品アイテムの一括回収を補助",
+    "Description": "右Alt＋右クリックで、ログイン中に記憶した最終出品単価を使って同種アイテムを連続出品。NQ/HQ共通の価格履歴、Marketbuddyの数量設定参照、操作キー・ディレイ設定に対応。販売リスト左下のプレイヤー・リテイナー向け一括回収も利用できます。設定: /retainerlisting。実機検証待ち。",
     "RepoUrl": "https://github.com/Roxyz0501/RetainerRecall",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/RetainerRecall/main/images/icon.png",
     "Tags": [
@@ -120,15 +120,16 @@
       "inventory",
       "market",
       "リテイナー",
+      "連続出品",
       "出品回収"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.1.0.0/RetainerRecall-0.1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.1.0.0/RetainerRecall-0.1.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.1.0.0/RetainerRecall-0.1.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.0/RetainerRecall-0.2.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.0/RetainerRecall-0.2.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.0/RetainerRecall-0.2.0.0.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791394093,
-    "Changelog": "初期公開版。プレイヤー・リテイナーへの出品一括回収、ボタン別表示・待機時間・位置設定。ゲーム内動作は未検証。"
+    "LastUpdate": 1791430918,
+    "Changelog": "Retainer Listing Helperに改称。/retainerlisting、ログイン中のNQ/HQ共通価格記憶、右Alt＋右クリック連続出品、Marketbuddy数量参照を追加。出品・取り下げを通常UIメニュー経由に統一。実機検証待ち。"
   }
 ]
