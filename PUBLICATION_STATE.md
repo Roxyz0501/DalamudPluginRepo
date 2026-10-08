@@ -1,5 +1,15 @@
 # Shared repository publication state
 
+## 2026-10-08 Retainer Listing Helper 0.2.0.1
+
+- Release: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v0.2.0.1
+- ZIP: https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.1/RetainerRecall-0.2.0.1.zip
+- SHA-256: `7A43B67D03354E02882B22EE527A62F5D397A5FB9CA695AFDB23058469C9273B`.
+- Dedicated source release commit `8c70bb1`. Anonymous source/icon HTTP 200, image/png and downloaded public ZIP hash verified; packaged metadata and notices retained.
+- 0.1-second minimum listing/recall delay; armoury equipment included in player listing scans and recall acknowledgement; inventory shortcut observed after the original menu-opening function; chat diagnostics added.
+- Clean Release build, 90 managed checks and five isolated UI/command/persistence checks passed. In-game shortcut/armoury behavior and resolution of the reported full-armoury stop remain unverified.
+- Existing five other index entries preserved. Shared publication verification pending.
+
 ## 2026-10-08 Allagan Local 0.1.0.0
 
 - Initial public preview, new standalone plugin, author Roxyz0501.

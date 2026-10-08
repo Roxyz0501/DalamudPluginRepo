@@ -108,11 +108,11 @@
     "Author": "Roxyz0501",
     "Name": "Retainer Listing Helper",
     "InternalName": "RetainerRecall",
-    "AssemblyVersion": "0.2.0.0",
+    "AssemblyVersion": "0.2.0.1",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "保存単価での連続出品と、出品アイテムの一括回収を補助",
-    "Description": "右Alt＋右クリックで、ログイン中に記憶した最終出品単価を使って同種アイテムを連続出品。NQ/HQ共通の価格履歴、Marketbuddyの数量設定参照、操作キー・ディレイ設定に対応。販売リスト左下のプレイヤー・リテイナー向け一括回収も利用できます。設定: /retainerlisting。実機検証待ち。",
+    "Description": "右Alt＋右クリックで、ログイン中に記憶した最終出品単価を使って同種アイテムを連続出品。所持品・アーマリーチェストの検索、NQ/HQ共通の価格履歴、Marketbuddyの数量設定参照、操作キー・ディレイ設定に対応。販売リスト左下のプレイヤー・リテイナー向け一括回収も利用できます。設定: /retainerlisting。実機検証待ち。",
     "RepoUrl": "https://github.com/Roxyz0501/RetainerRecall",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/RetainerRecall/main/images/icon.png",
     "Tags": [
@@ -123,14 +123,14 @@
       "連続出品",
       "出品回収"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.0/RetainerRecall-0.2.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.0/RetainerRecall-0.2.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.0/RetainerRecall-0.2.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.1/RetainerRecall-0.2.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.1/RetainerRecall-0.2.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v0.2.0.1/RetainerRecall-0.2.0.1.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791430918,
-    "Changelog": "Retainer Listing Helperに改称。/retainerlisting、ログイン中のNQ/HQ共通価格記憶、右Alt＋右クリック連続出品、Marketbuddy数量参照を追加。出品・取り下げを通常UIメニュー経由に統一。実機検証待ち。"
+    "LastUpdate": 1791432428,
+    "Changelog": "出品・回収のディレイ下限を0.1秒へ変更。アーマリー内の同種アイテムも連続出品の検索対象に追加。ショートカットの対象取得を通常メニュー生成後へ変更。回収判定にアーマリーを追加し、停止理由をチャット表示。実機での症状解消は未確認。"
   },
   {
     "Author": "Roxyz0501",
