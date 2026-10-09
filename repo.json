@@ -136,7 +136,7 @@
     "Author": "Roxyz0501",
     "Name": "Allagan Local",
     "InternalName": "AllaganLocalPlugin",
-    "AssemblyVersion": "0.2.0.0",
+    "AssemblyVersion": "0.2.0.1",
     "Description": "Requires Allagan Tools for inventory and gil data; AllaganMarket is additionally required for market sales history. These source plugins must record and save data. Settings show their installed/running status. Starts the bundled local website when loaded; open it from settings or /allaganlocal. Seven interface languages.",
     "Punchline": "Local inventory, gil and market history dashboard",
     "Tags": [
@@ -150,12 +150,12 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/AllaganLocal",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AllaganLocal/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.2.0.0/AllaganLocalPlugin-0.2.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.2.0.0/AllaganLocalPlugin-0.2.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.2.0.0/AllaganLocalPlugin-0.2.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.2.0.1/AllaganLocalPlugin-0.2.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.2.0.1/AllaganLocalPlugin-0.2.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.2.0.1/AllaganLocalPlugin-0.2.0.1.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791440954,
-    "Changelog": "Seven explicit interface languages, persisted initial language selection, live Config-to-website synchronization and bundled CJK fonts. Existing settings are preserved. Public preview; native in-game acceptance remains unverified."
+    "LastUpdate": 1791504336,
+    "Changelog": "Fixes startup crash risk from font additions during PostBuild. Uses OnPreBuild phase routing; settings, data and seven languages preserved. Regression tests passed; in-game startup remains unverified."
   }
 ]
