@@ -125,3 +125,12 @@ Updated: 2026-10-04 (JST).
 - Source: 33a5983. SHA-256: `3537016F371A047E54DE79E3A42F90F5DA69C68F5BA2A2C21F607E0B9BAC81A3`.
 - Font additions gated by actual PreBuild phase. 44 real-SDK regression checks, 410 localization checks and packaged verification passed; Release zero warnings/errors. Native in-game startup remains unverified.
 - Public repository/icon HTTP 200 (image/png), ZIP hash verified. Five other index entries unchanged.
+
+
+## 2026-10-09 Allagan Local 0.2.0.1 — published
+
+- User explicitly authorized publication. Release: https://github.com/Roxyz0501/AllaganLocal/releases/tag/v0.2.0.1
+- ZIP: https://github.com/Roxyz0501/AllaganLocal/releases/download/v0.2.0.1/AllaganLocalPlugin-0.2.0.1.zip
+- Source 33a5983; shared registration ee5098524dc99e270bb44b0ee17e0356f8c5d755.
+- SHA-256: `3537016F371A047E54DE79E3A42F90F5DA69C68F5BA2A2C21F607E0B9BAC81A3`. Anonymous ZIP hash and repository/icon HTTP 200 verified. Shared pinned and normal main URLs both verified: six entries, five other entries unchanged.
+- 44 font lifecycle checks, 410 localization checks, Release build zero warnings/errors and package checks passed. Native in-game startup remains unverified. Installed DLL was not replaced.
