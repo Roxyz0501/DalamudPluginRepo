@@ -28,7 +28,7 @@
     "Author": "Roxyz0501",
     "Name": "Character Archive",
     "InternalName": "CharacterArchive",
-    "AssemblyVersion": "0.6.0.0",
+    "AssemblyVersion": "1.0.0.0",
     "Description": "Stores logged-in character details, jobs, playtime, Lodestone IDs, and configuration-folder mappings locally, then presents them in a searchable UI and CSV export. Optional external lookup and login-time playtime acquisition require explicit settings.",
     "Punchline": "Manage characters, jobs, playtime, Lodestone profiles, and configuration folders.",
     "Tags": [
@@ -42,12 +42,12 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/CharacterArchive",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CharacterArchive/main/CharacterArchive/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v0.6.0.0/CharacterArchive-0.6.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v0.6.0.0/CharacterArchive-0.6.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.0.0.0/CharacterArchive-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.0.0.0/CharacterArchive-1.0.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791438371,
-    "Changelog": "Added Japanese, English, German, French, Korean, Simplified Chinese and Traditional Chinese UI. Initial language is detected once; manual selections persist. CSV headers remain stable. In-game rendering validation is pending."
+    "LastUpdate": 1791703390,
+    "Changelog": "Moved the seven-language selector into a dedicated Language settings tab and standardized the Roxyz0501 Support tab. Existing language detection, migration, saved choices, character data, playtime, Lodestone, and CSV behavior are preserved. In-game rendering remains unverified."
   },
   {
     "Author": "Roxyz0501",

@@ -1,5 +1,13 @@
 # Shared repository publication state
 
+## 2026-10-11 Character Archive 1.0.0.0
+
+- Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.0.0.0
+- ZIP: https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.0.0.0/CharacterArchive-1.0.0.0.zip
+- Source commit: `4e8fd12cf9aec514a4857ab6ed1409186bdb97db`; SHA-256: `C22A3EED447643711FC93EC50A4051398DF2E0E65588A8092A542047A6ACB029`.
+- Dedicated localized `Language settings###LanguageSettings` tab and canonical `Support###Support` implementation; existing seven-language detection, migration, persistence, and plugin behavior are preserved.
+- Clean Release build completed with zero warnings/errors and all core checks passed. Public ZIP and packaged manifest were verified; in-game rendering remains unverified.
+
 ## 2026-10-11 Aether Current Navigator 1.0.0.0
 
 - Release: https://github.com/Roxyz0501/AetherCurrentUnlocker/releases/tag/v1.0.0.0
