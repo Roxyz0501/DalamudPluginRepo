@@ -81,7 +81,7 @@
     "Author": "Roxyz0501",
     "Name": "BGMPlayer",
     "InternalName": "AetherRadio",
-    "AssemblyVersion": "0.1.7.0",
+    "AssemblyVersion": "1.0.0.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "ゲーム内のBGMを選んで再生できます。",
@@ -95,14 +95,14 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.7.0/AetherRadio-0.1.7.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.7.0/AetherRadio-0.1.7.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v0.1.7.0/AetherRadio-0.1.7.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.0.0.0/AetherRadio-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.0.0.0/AetherRadio-1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.0.0.0/AetherRadio-1.0.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "RequiredPlugins": [],
-    "LastUpdate": 1791114697,
-    "Changelog": "音量を最大200%へ拡張。メイン・ミニにループボタンを追加し、初期設定を1曲ループにしました。既存の設定も一度だけ1曲ループへ移行します。"
+    "LastUpdate": 1791704007,
+    "Changelog": "7言語の表示切替に対応し、独立した「言語設定」タブと共通の支援タブを追加しました。保存済みの言語・マイリスト・再生設定を引き継ぎます。"
   },
   {
     "Author": "Roxyz0501",

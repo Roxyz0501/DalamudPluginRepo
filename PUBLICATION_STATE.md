@@ -1,5 +1,15 @@
 # Shared repository publication state
 
+## 2026-10-11 BGMPlayer 1.0.0.0
+
+- Release: https://github.com/Roxyz0501/AetherRadio/releases/tag/v1.0.0.0
+- ZIP: https://github.com/Roxyz0501/AetherRadio/releases/download/v1.0.0.0/AetherRadio-1.0.0.0.zip
+- Source commit: `6148f21ce6d476dd3a2b2e90e9a3e64eb80b3b1c`; SHA-256: `DCF7C7C75C8418B0A8E7014F6458511444F1939E3BD45BEAA0CCE52287039A42`.
+- Added the independent localized Language settings tab and exact canonical language/Support implementation while preserving BGMPlayer's surrounding UI, saved language, lists and playback settings. Seven complete language dictionaries are embedded.
+- Clean Release build: zero warnings/errors. 188 managed/offline checks and 45 isolated ImGui checks passed. Tab navigation and language changes made zero additional catalogue reads; unchanged views caused zero saves.
+- Anonymous repository/icon/download URLs returned HTTP 200. Public ZIP hash, manifest identity/version/URLs, original icon and license notices verified. Native game font-atlas, IME/DPI and audio acceptance remain unverified; the Release remains a public preview.
+- Only the AetherRadio entry is updated from 0.1.7.0 to 1.0.0.0; all six other entries are preserved.
+
 ## 2026-10-11 Bait Beacon 1.0.0.0
 
 - Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v1.0.0.0
