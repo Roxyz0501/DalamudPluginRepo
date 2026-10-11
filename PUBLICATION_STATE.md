@@ -8,7 +8,7 @@
 - Rebuilt fish-bait snapshot from all 36 GatherBuddy Reborn patch files (2,616 fish recipes); fixed explicit and inherited mooch bait, skipped baitless spearfishing items, and reported only selected rod fish with no resolvable bait route.
 - Added persistent overall highlighting toggle on list and Settings tabs. Expanded font glyph input for seven native language names and replaced the bait-list separator with ASCII.
 - Clean Release build: zero warnings/errors; 19 checks passed. Public ZIP downloaded anonymously with matching SHA-256 and packaged manifest identity, RepoUrl, IconUrl, license and NOTICE verified. Updated native font rendering and overlay placement remain unverified.
-- Shared repository entry updated from 0.1.0.0 to 0.1.0.1; six other entries preserved.
+- Shared repository entry updated from 0.1.0.0 to 0.1.0.1 in `65af7c89577f2e4d9d967cbb393cf004677e8bf3`; six other entries preserved. The anonymous commit-pinned and normal `main` URLs both returned HTTP 200 with seven entries and BaitBeacon 0.1.0.1 after the normal URL's cache refreshed.
 
 ## 2026-10-11 Bait Beacon 0.1.0.0
 
