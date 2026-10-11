@@ -242,3 +242,13 @@ Updated: 2026-10-04 (JST).
 - Exact latest shared helper fixes the order: Listing, Recall, Settings, Language settings, Support. Editing controls moved to Settings; saved configuration and native behavior retained. Existing 1.0.0.0 assets untouched.
 - Clean Release build (zero warnings/errors), 149 managed, 16 native and 25 order/font/UI checks passed. Anonymous repository/icon HTTP 200 (image/png); public ZIP hash, manifest and embedded languages verified. In-game rendering/operation and full-armoury retrieval remain unverified.
 - Shared index commit `523a2dd00cfb292cd7e2f97ee165025b5ead86ec` was published through the GitHub connector after incorporating concurrent updates. Only RetainerRecall changed; six other entries preserved. Connector reads of pinned and main index URLs confirm seven entries, version 1.0.0.1 and correct ZIP.
+
+
+## 2026-10-12 Allagan Local 1.0.0.1
+
+- Release: https://github.com/Roxyz0501/AllaganLocal/releases/tag/v1.0.0.1
+- ZIP: https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.0.0.1/AllaganLocalPlugin-1.0.0.1.zip
+- Source 85d9aee; shared registration `1b04fe414fd37cebfe0956ce4e95860917295fa6`.
+- SHA-256: `23FB31B1EFBC1245A78F4B1FAF00FF2147E2BE25CB7ED46D086DAA3B1242C387`.
+- Canonical trailing tab helper and order integration test passed; 485 localization checks and Release build zero warnings/errors. Package startup/manifest/resources verified. Native in-game rendering remains unverified. Existing 1.0.0.0 asset unchanged.
+- Public repo/icon HTTP 200 (image/png), downloaded ZIP hash verified. Connector and pinned public index show 1.0.0.1; normal main raw URL retained cached 1.0.0.0. All other index entries preserved.
