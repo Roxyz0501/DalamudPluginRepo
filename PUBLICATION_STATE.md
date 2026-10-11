@@ -1,5 +1,15 @@
 # Shared repository publication state
 
+## 2026-10-11 Bait Beacon 0.1.0.0
+
+- New standalone public preview by Roxyz0501: https://github.com/Roxyz0501/BaitBeacon
+- Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v0.1.0.0
+- ZIP: https://github.com/Roxyz0501/BaitBeacon/releases/download/v0.1.0.0/BaitBeacon-0.1.0.0.zip
+- Source commit: `6cd37123432fdc4c1f6a62b0e4f28740e09a20fe`; SHA-256: `833E640A19DC31419DED660091D7AC74DB0DF724C69421894235BB1DF2F12599`.
+- Dedicated public source and original PNG icon returned HTTP 200; downloaded Release ZIP matched the local hash and retained RepoUrl, IconUrl, author, version, license and NOTICE.
+- Clean Release build with zero warnings/errors and 13 saved-list, bait, and localization checks passed. In-game overlay placement and font coverage remain unverified and are disclosed as preview limits.
+- Shared repository index registration adds BaitBeacon while preserving its six existing entries.
+
 ## 2026-10-08 Allagan Local 0.2.0.0
 
 - Registration `1e165529bccec42614860284ef74397f6ce9655f` verified anonymously at commit-pinned and normal main URLs: HTTP 200, six entries, Allagan Local 0.2.0.0.

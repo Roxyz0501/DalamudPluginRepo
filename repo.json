@@ -157,5 +157,26 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1791690742,
     "Changelog": "Keeps website running after game/plugin exit and reuses it on the next launch. Independent file logging; fixes stale sidebar selection and late history responses. Settings and data preserved. In-game acceptance remains unverified."
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Bait Beacon",
+    "InternalName": "BaitBeacon",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Select a saved GatherBuddy Reborn Auto-Gather list and highlight its required fishing bait in supported inventory windows. Reads the saved list without modifying it. Config shows GatherBuddy Reborn and original GatherBuddy installation status. Seven UI languages. In-game overlay placement is pending verification.",
+    "Punchline": "Spot the bait you need for Auto-Gather.",
+    "Tags": ["fishing", "gathering", "inventory", "utility"],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Roxyz0501/BaitBeacon",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/BaitBeacon/main/BaitBeacon/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/BaitBeacon/releases/download/v0.1.0.0/BaitBeacon-0.1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/BaitBeacon/releases/download/v0.1.0.0/BaitBeacon-0.1.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/BaitBeacon/releases/download/v0.1.0.0/BaitBeacon-0.1.0.0.zip",
+    "RequiredPlugins": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1791698016,
+    "Changelog": "Initial public preview. Saved Auto-Gather list bait highlighting, source plugin status, and seven UI languages. Native game layout and font coverage are not yet verified."
   }
 ]

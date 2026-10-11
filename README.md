@@ -19,6 +19,7 @@ Add this URL to Dalamud:
 
 ## Included plugins
 
+- [Bait Beacon](https://github.com/Roxyz0501/BaitBeacon) — highlights bait for a saved GatherBuddy Reborn Auto-Gather list. Public preview; in-game overlay placement is pending verification.
 - [Allagan Local](https://github.com/Roxyz0501/AllaganLocal) — local inventory, gil and sales dashboard. Requires Allagan Tools; sales history also requires AllaganMarket. Public preview.
 
 - [Glamour Saver](https://github.com/Roxyz0501/GlamourSaver)

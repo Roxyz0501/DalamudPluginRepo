@@ -19,6 +19,7 @@ Dalamudへ次のURLを追加してください。
 
 ## 収録プラグイン
 
+- [Bait Beacon](https://github.com/Roxyz0501/BaitBeacon) — GatherBuddy Reborn の保存済み Auto-Gather リストに必要な餌を強調表示します。公開プレビュー。ゲーム内の枠位置は未検証です。
 - [Allagan Local](https://github.com/Roxyz0501/AllaganLocal) — 所持品・所持金・販売履歴のローカルサイト。Allagan Toolsが必要、販売履歴にはAllaganMarketも必要です。公開プレビュー。
 
 - [Glamour Saver](https://github.com/Roxyz0501/GlamourSaver)
