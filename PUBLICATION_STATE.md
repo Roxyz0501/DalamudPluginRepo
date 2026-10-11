@@ -18,6 +18,14 @@
 - Clean Release build completed with zero warnings/errors and all core checks passed, including the new tab-order regression checks. Public repository, PNG icon, ZIP hash, packaged manifest URLs/version and package contents were verified. Native in-game rendering remains unverified.
 - Shared index entry commit `f07786d240274869788706e60d3825b3f09991ee` updates only CharacterArchive to 1.0.0.1 and preserves all six other entries.
 
+## 2026-10-12 Aether Current Navigator 1.0.0.1
+
+- Release: https://github.com/Roxyz0501/AetherCurrentUnlocker/releases/tag/v1.0.0.1
+- ZIP: https://github.com/Roxyz0501/AetherCurrentUnlocker/releases/download/v1.0.0.1/AetherCurrentUnlocker-1.0.0.1.zip
+- Source commit: `533ba2c`; SHA-256: `1D3BF0B531FA6121DA262332C1718C831443B34FAED87554A1687C145F4E39EB`.
+- Uses the canonical trailing-tab helper so every plugin-specific tab is followed by Settings, Language settings, then Support. Clean Release build completed with zero warnings/errors; 134 static and 40 formatted localization keys passed. Native in-game rendering remains unverified.
+- GitHub integration verified the uploaded Release asset digest and shared index commit `f283a308a240fbaa377720551245d12c57280867`; seven entries are preserved and AetherCurrentUnlocker is 1.0.0.1.
+
 ## 2026-10-12 Bait Beacon 1.0.0.1
 
 - Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v1.0.0.1
