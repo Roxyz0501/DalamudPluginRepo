@@ -1,5 +1,13 @@
 # Shared repository publication state
 
+## 2026-10-11 Aether Current Navigator 1.0.0.0
+
+- Release: https://github.com/Roxyz0501/AetherCurrentUnlocker/releases/tag/v1.0.0.0
+- ZIP: https://github.com/Roxyz0501/AetherCurrentUnlocker/releases/download/v1.0.0.0/AetherCurrentUnlocker-1.0.0.0.zip
+- Source commit: `e51af902099c00ba901f2bd4d6c7f6fc661ac17d`; SHA-256: `CB3D8C367807237E8089F46D853216ED87ABE7D5041452C0D66F4157D7A851E8`.
+- Dedicated seven-language settings tab and standardized Roxyz0501 Support tab. Clean Release build completed with zero warnings/errors; localization checks covered 134 static strings and 40 formatted keys. Public ZIP and packaged manifest were verified; in-game rendering remains unverified.
+- Shared entry update `10489d9` was verified anonymously at the commit-pinned and normal `main` URLs: HTTP 200, seven entries, AetherCurrentUnlocker 1.0.0.0.
+
 ## 2026-10-11 Bait Beacon 0.1.0.1
 
 - Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v0.1.0.1
