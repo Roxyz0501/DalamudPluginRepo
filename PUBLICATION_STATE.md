@@ -1,5 +1,14 @@
 # Shared repository publication state
 
+## 2026-10-12 Glamour Saver 1.0.0.1
+
+- Release: https://github.com/Roxyz0501/GlamourSaver/releases/tag/v1.0.0.1
+- ZIP: https://github.com/Roxyz0501/GlamourSaver/releases/download/v1.0.0.1/GlamourSaver-1.0.0.1.zip
+- Source commit: `030dea3987406b9819366f627f5207709d822692`; SHA-256: `BBA007D82923D74D2D9AE85D645FAD000B8E2537B34E80A0397A321ED286C359`.
+- Uses the exact canonical shared source and calls the trailing-tab helper once so Settings, Language settings, and Support remain the final tab group. Existing language choices, Config migration, Discord behavior, screenshot capture, and button positioning are preserved.
+- Clean Release build completed with zero warnings/errors; localization, migration, canonical-source, tab-order, package-manifest, and secret checks passed. The public ZIP digest and packaged metadata were verified. Native in-game rendering, font coverage, and live Discord posting remain unverified.
+- Shared index commit `55c5aca3d2bfbce68fa693f97d73b6801312a0de` updates only GlamourSaver to 1.0.0.1 and preserves all six other entries.
+
 ## 2026-10-12 Character Archive 1.0.0.1
 
 - Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.0.0.1
