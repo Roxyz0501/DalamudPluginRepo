@@ -203,3 +203,12 @@ Updated: 2026-10-04 (JST).
 - Public repository/icon HTTP 200 (image/png), downloaded ZIP hash verified. Only Allagan Local index entry changed; all other entries preserved.
 
 - Registration `cd0374b415897d0137aa26f735208506e543a1f6` verified anonymously at the pinned URL: HTTP 200, seven entries. Normal main URL retained cached 0.2.0.2 at verification. Unrelated BaitBeacon Tags whitespace restored; values were unchanged.
+
+## 2026-10-11 Retainer Listing Helper 1.0.0.0
+
+- Release: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v1.0.0.0
+- ZIP: https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.0/RetainerRecall-1.0.0.0.zip
+- Source commit: `179a70665fb70ef5bb71aa030f054defe511ac4e`; SHA-256: `50F9BB88BC196E102E9B6523161881026C14FCB21CC1196A623E92C5CB29F0D2`.
+- Exact canonical Language settings and Support tab code; seven languages, existing choices and operation settings preserved. SDK-compatible read-only AgentRetainer layout adapted from official MIT source; native UI dispatch and validation retained.
+- Clean Release build (zero warnings/errors), 149 managed checks, 16 native checks and 23 font/UI checks passed. Anonymous source/icon HTTP 200 (image/png) and public ZIP hash, manifest and seven resources verified. In-game rendering/operation and full-armoury retrieval remain unverified.
+- Only the RetainerRecall index entry changed; all six other entries retained from latest main.
