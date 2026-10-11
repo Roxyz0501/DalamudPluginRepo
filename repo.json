@@ -108,7 +108,7 @@
     "Author": "Roxyz0501",
     "Name": "Retainer Listing Helper",
     "InternalName": "RetainerRecall",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "保存単価での連続出品と、出品アイテムの一括回収を補助",
@@ -123,14 +123,14 @@
       "連続出品",
       "出品回収"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.0/RetainerRecall-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.0/RetainerRecall-1.0.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.0/RetainerRecall-1.0.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.1/RetainerRecall-1.0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.1/RetainerRecall-1.0.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.1/RetainerRecall-1.0.0.1.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791703618,
-    "Changelog": "言語設定を独立タブへ移動し、支援タブを共通コードへ統一。保存済み言語・操作設定を維持。SDK互換用の読み取り定義を追加。ゲーム内動作とアーマリー満杯時の回収停止の解消は未確認です。"
+    "LastUpdate": 1791733365,
+    "Changelog": "タブ順を連続出品・出品回収・設定・言語設定・支援に統一。操作設定を設定タブへ集約し、既存の言語・操作設定を保持。ゲーム内動作とアーマリー満杯時の回収停止の解消は未確認です。"
   },
   {
     "Author": "Roxyz0501",
