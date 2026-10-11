@@ -3,7 +3,7 @@
     "Author": "Roxyz0501",
     "Name": "Glamour Saver",
     "InternalName": "GlamourSaver",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.0",
     "Description": "Adds a SendDiscord button beside the Examine window. Only when pressed, it posts a cropped image, target character name, appearance item names, and Eorzea Database search links to the configured Discord Webhook. The UI supports Japanese, English, German, French, Korean, Simplified Chinese, and Traditional Chinese.",
     "Punchline": "Save an examined character's glamour to Discord with one explicit click.",
     "Tags": [
@@ -53,7 +53,7 @@
     "Author": "Roxyz0501",
     "Name": "Aether Current Navigator",
     "InternalName": "AetherCurrentUnlocker",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "Shows field Aether Current and quest progress by expansion and area. It can process the current area or a selected expansion, using vnavmesh for field travel and Questionable for quests. Includes a map view, individual actions, route recalculation, and UI in Japanese, English, German, French, Korean, Simplified Chinese, and Traditional Chinese.",
     "Punchline": "Visualize and unlock Aether Currents across every expansion.",
     "Tags": [
