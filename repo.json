@@ -136,7 +136,7 @@
     "Author": "Roxyz0501",
     "Name": "Allagan Local",
     "InternalName": "AllaganLocalPlugin",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "Requires Allagan Tools for inventory and gil data; AllaganMarket is additionally required for market sales history. These source plugins must record and save data. Settings show their installed/running status. Starts the bundled local website when loaded; open it from settings or /allaganlocal. Seven interface languages.",
     "Punchline": "Local inventory, gil and market history dashboard",
     "Tags": [
@@ -150,13 +150,13 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/AllaganLocal",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AllaganLocal/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.0.0.0/AllaganLocalPlugin-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.0.0.0/AllaganLocalPlugin-1.0.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.0.0.0/AllaganLocalPlugin-1.0.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.0.0.1/AllaganLocalPlugin-1.0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.0.0.1/AllaganLocalPlugin-1.0.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.0.0.1/AllaganLocalPlugin-1.0.0.1.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791703406,
-    "Changelog": "Adopts canonical independent Language settings and Support tabs. Preserves seven languages, saved choices, Web synchronization and persistent server behavior. Native in-game acceptance remains unverified."
+    "LastUpdate": 1791733415,
+    "Changelog": "Enforces Settings, Language settings, Support as the final tab group using the canonical helper. Settings and behavior unchanged. Native in-game rendering remains unverified."
   },
   {
     "Author": "Roxyz0501",
