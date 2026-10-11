@@ -9,6 +9,7 @@
 - Clean Release build: zero warnings/errors. 188 managed/offline checks and 45 isolated ImGui checks passed. Tab navigation and language changes made zero additional catalogue reads; unchanged views caused zero saves.
 - Anonymous repository/icon/download URLs returned HTTP 200. Public ZIP hash, manifest identity/version/URLs, original icon and license notices verified. Native game font-atlas, IME/DPI and audio acceptance remain unverified; the Release remains a public preview.
 - Only the AetherRadio entry is updated from 0.1.7.0 to 1.0.0.0; all six other entries are preserved.
+- Registration commit: `71d9d7e991fd84bce941aa042c3acce16c5d71a5`. The anonymous commit-pinned and normal `main` URLs returned HTTP 200 with all seven entries and BGMPlayer 1.0.0.0 after revalidating the initially cached normal URL.
 
 ## 2026-10-11 Bait Beacon 1.0.0.0
 
