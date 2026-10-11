@@ -1,5 +1,14 @@
 # Shared repository publication state
 
+## 2026-10-12 Character Archive 1.0.0.1
+
+- Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.0.0.1
+- ZIP: https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.0.0.1/CharacterArchive-1.0.0.1.zip
+- Source commit: `67a1fabc87c9ea12d9676833f94413957acfb0d2`; SHA-256: `518C2810904FF248EF5FFF63E4E34EB2B28DA25EF6F9E4DCB806C59E0A0FC13C`.
+- Adopted the canonical trailing-tab helper. Overview, Details, and File Mapping are followed by Settings, Language settings, then Support; existing character archive, Lodestone lookup, job, playtime, and CSV behavior are preserved.
+- Clean Release build completed with zero warnings/errors and all core checks passed, including the new tab-order regression checks. Public repository, PNG icon, ZIP hash, packaged manifest URLs/version and package contents were verified. Native in-game rendering remains unverified.
+- Shared index entry commit `f07786d240274869788706e60d3825b3f09991ee` updates only CharacterArchive to 1.0.0.1 and preserves all six other entries.
+
 ## 2026-10-12 Bait Beacon 1.0.0.1
 
 - Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v1.0.0.1
