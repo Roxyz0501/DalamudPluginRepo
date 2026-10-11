@@ -192,3 +192,5 @@ Updated: 2026-10-04 (JST).
 - Canonical StandardPluginTabs.cs copied byte-for-byte; separate LanguageSettings and Support tabs. Saved language, migration, browser sync and persistent server preserved. No new data/API requests.
 - 485 localization, 44 font, 43 Web and 13 host checks passed. 1,361 codepoints covered by four fonts. Release zero warnings/errors; package startup/manifest verified. Native in-game acceptance unverified.
 - Public repository/icon HTTP 200 (image/png), downloaded ZIP hash verified. Only Allagan Local index entry changed; all other entries preserved.
+
+- Registration `cd0374b415897d0137aa26f735208506e543a1f6` verified anonymously at the pinned URL: HTTP 200, seven entries. Normal main URL retained cached 0.2.0.2 at verification. Unrelated BaitBeacon Tags whitespace restored; values were unchanged.

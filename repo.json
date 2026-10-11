@@ -165,12 +165,7 @@
     "AssemblyVersion": "0.1.0.1",
     "Description": "Select a saved GatherBuddy Reborn Auto-Gather list and highlight its required fishing bait in supported inventory windows. Mooch routes and source fish bait are included, and spearfishing items are skipped. Overall and per-window highlighting switches. Reads the saved list without modifying it. Seven UI languages. In-game overlay placement is pending verification.",
     "Punchline": "Spot the bait you need for Auto-Gather.",
-    "Tags": [
-      "fishing",
-      "gathering",
-      "inventory",
-      "utility"
-    ],
+    "Tags": ["fishing", "gathering", "inventory", "utility"],
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/BaitBeacon",
