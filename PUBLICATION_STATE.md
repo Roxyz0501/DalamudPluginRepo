@@ -232,3 +232,13 @@ Updated: 2026-10-04 (JST).
 - Exact canonical Language settings and Support tab code; seven languages, existing choices and operation settings preserved. SDK-compatible read-only AgentRetainer layout adapted from official MIT source; native UI dispatch and validation retained.
 - Clean Release build (zero warnings/errors), 149 managed checks, 16 native checks and 23 font/UI checks passed. Anonymous source/icon HTTP 200 (image/png) and public ZIP hash, manifest and seven resources verified. In-game rendering/operation and full-armoury retrieval remain unverified.
 - Only the RetainerRecall index entry changed; all six other entries retained from latest main.
+
+
+## 2026-10-12 Retainer Listing Helper 1.0.0.1
+
+- Release: https://github.com/Roxyz0501/RetainerRecall/releases/tag/v1.0.0.1
+- ZIP: https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.1/RetainerRecall-1.0.0.1.zip
+- Source: `5311e378b7fe332f0c10043921b349c85422b74c`; SHA-256: `A744D1D24D7353E906A542A4EECBE1573B415656F939D5C30B3A559FD0FA0E77`.
+- Exact latest shared helper fixes the order: Listing, Recall, Settings, Language settings, Support. Editing controls moved to Settings; saved configuration and native behavior retained. Existing 1.0.0.0 assets untouched.
+- Clean Release build (zero warnings/errors), 149 managed, 16 native and 25 order/font/UI checks passed. Anonymous repository/icon HTTP 200 (image/png); public ZIP hash, manifest and embedded languages verified. In-game rendering/operation and full-armoury retrieval remain unverified.
+- Shared index commit `523a2dd00cfb292cd7e2f97ee165025b5ead86ec` was published through the GitHub connector after incorporating concurrent updates. Only RetainerRecall changed; six other entries preserved. Connector reads of pinned and main index URLs confirm seven entries, version 1.0.0.1 and correct ZIP.
