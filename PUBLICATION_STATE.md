@@ -8,7 +8,7 @@
 - Source commit: `6cd37123432fdc4c1f6a62b0e4f28740e09a20fe`; SHA-256: `833E640A19DC31419DED660091D7AC74DB0DF724C69421894235BB1DF2F12599`.
 - Dedicated public source and original PNG icon returned HTTP 200; downloaded Release ZIP matched the local hash and retained RepoUrl, IconUrl, author, version, license and NOTICE.
 - Clean Release build with zero warnings/errors and 13 saved-list, bait, and localization checks passed. In-game overlay placement and font coverage remain unverified and are disclosed as preview limits.
-- Shared repository index registration `95fd644cb9f2a6961cc96d0a059a23e9798a3455` adds BaitBeacon while preserving its six existing entries. The anonymous commit-pinned URL returned HTTP 200 with seven entries; the normal `main` URL initially returned its cached six-entry response (`max-age=300`).
+- Shared repository index registration `95fd644cb9f2a6961cc96d0a059a23e9798a3455` adds BaitBeacon while preserving its six existing entries. The anonymous commit-pinned and normal `main` URLs both returned HTTP 200 with seven entries; the normal URL briefly returned its cached six-entry response (`max-age=300`) before refreshing.
 
 ## 2026-10-08 Allagan Local 0.2.0.0
 
