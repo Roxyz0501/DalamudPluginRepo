@@ -144,3 +144,5 @@ Updated: 2026-10-04 (JST).
 - Keeps server alive across plugin/game exit, reuses existing instance, writes logs independently of parent pipes. Fixes exclusive sidebar selection and stale history responses.
 - 13 host checks including actual parent process exit/reuse, 43 Web checks, clean Release zero warnings/errors and packaged runner validation passed. Native in-game acceptance unverified.
 - Public repository/icon HTTP 200 (image/png) and downloaded ZIP hash verified. Five other entries unchanged.
+
+- Shared registration `89bda8d2eb1a77433f3100e5f5c0abda1601224a` verified at both commit-pinned and normal main URLs: HTTP 200, six entries, Allagan Local 0.2.0.2.
