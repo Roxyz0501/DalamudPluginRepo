@@ -7,7 +7,7 @@
 - Source commit: `530322b0a40858d330473d664508ab41d0bb3df2`; SHA-256: `CD56C74BBAAB696C56909FA3D3301934BCE933874D9D00072E5FA15A8C293C79`.
 - Copied the canonical StandardPluginTabs.cs exactly, moved the selector to an independent localized Language settings tab, standardized Support content and colors, and localized command help. Existing saved language, list and highlighting settings are retained.
 - Clean Release build with zero warnings/errors and 23 checks. Public repository, PNG icon and ZIP returned HTTP 200; downloaded ZIP hash and packaged author/version/RepoUrl/IconUrl/license/NOTICE verified. Native tab rendering, font coverage and inventory overlay placement remain unverified.
-- Shared index BaitBeacon entry updated to 1.0.0.0 while preserving all other plugin entries.
+- Shared index BaitBeacon entry updated to 1.0.0.0 in `0512713bb4aa8d34a778cfd1b6482f8a5d779133` while preserving all six other plugin entries. The anonymous commit-pinned and normal `main` URLs both returned HTTP 200 with seven entries and BaitBeacon 1.0.0.0 after the normal URL's cache refreshed.
 
 ## 2026-10-11 Character Archive 1.0.0.0
 
