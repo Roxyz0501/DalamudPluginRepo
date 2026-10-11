@@ -1,5 +1,14 @@
 # Shared repository publication state
 
+## 2026-10-11 Bait Beacon 1.0.0.0
+
+- Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v1.0.0.0
+- ZIP: https://github.com/Roxyz0501/BaitBeacon/releases/download/v1.0.0.0/BaitBeacon-1.0.0.0.zip
+- Source commit: `530322b0a40858d330473d664508ab41d0bb3df2`; SHA-256: `CD56C74BBAAB696C56909FA3D3301934BCE933874D9D00072E5FA15A8C293C79`.
+- Copied the canonical StandardPluginTabs.cs exactly, moved the selector to an independent localized Language settings tab, standardized Support content and colors, and localized command help. Existing saved language, list and highlighting settings are retained.
+- Clean Release build with zero warnings/errors and 23 checks. Public repository, PNG icon and ZIP returned HTTP 200; downloaded ZIP hash and packaged author/version/RepoUrl/IconUrl/license/NOTICE verified. Native tab rendering, font coverage and inventory overlay placement remain unverified.
+- Shared index BaitBeacon entry updated to 1.0.0.0 while preserving all other plugin entries.
+
 ## 2026-10-11 Character Archive 1.0.0.0
 
 - Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.0.0.0
