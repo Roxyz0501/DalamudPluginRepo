@@ -1,5 +1,14 @@
 # Shared repository publication state
 
+## 2026-10-12 Bait Beacon 1.0.0.1
+
+- Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v1.0.0.1
+- ZIP: https://github.com/Roxyz0501/BaitBeacon/releases/download/v1.0.0.1/BaitBeacon-1.0.0.1.zip
+- Source commit: `438cf1c8db04e52a8ee4db8731302d6665d77940`; SHA-256: `53CA72AA5E0B1C60A9479C2275308C094B70BDC06A0E37B9F47087E4423F462D`.
+- Adopted the latest byte-identical canonical StandardPluginTabs.cs and its single trailing-tab helper. Lists is followed by Settings, Language settings, then Support. Saved lists, mooch bait, seven languages, and persistent highlight controls are preserved.
+- Clean Release build: zero warnings/errors; 25 checks passed, including tab order. Public repository, PNG icon and ZIP returned HTTP 200; downloaded ZIP hash and packaged manifest author/version/RepoUrl/IconUrl/license/NOTICE verified. Native in-game tab, font and overlay rendering remain unverified.
+- Shared index registration `bfd8b508a869681739bd466f14a29553b30339c6` changed only BaitBeacon and preserved six other entries. The anonymous commit-pinned URL returned HTTP 200 with seven entries and BaitBeacon 1.0.0.1. Normal `main` URL cache refresh is pending.
+
 ## 2026-10-11 BGMPlayer 1.0.0.0
 
 - Release: https://github.com/Roxyz0501/AetherRadio/releases/tag/v1.0.0.0
