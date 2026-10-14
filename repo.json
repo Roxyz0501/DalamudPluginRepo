@@ -165,7 +165,12 @@
     "AssemblyVersion": "1.0.0.1",
     "Description": "Select a saved GatherBuddy Reborn Auto-Gather list and highlight its required fishing bait in supported inventory windows. Mooch routes and source fish bait are included, and spearfishing items are skipped. Overall and per-window highlighting switches. Reads the saved list without modifying it. Seven UI languages. In-game overlay placement is pending verification.",
     "Punchline": "Spot the bait you need for Auto-Gather.",
-    "Tags": ["fishing", "gathering", "inventory", "utility"],
+    "Tags": [
+      "fishing",
+      "gathering",
+      "inventory",
+      "utility"
+    ],
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/BaitBeacon",
@@ -178,17 +183,16 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1791733222,
     "Changelog": "Uses the canonical shared helper for trailing Settings, Language settings, and Support tabs after Lists. Saved lists, mooch bait, seven languages, and highlighting settings are preserved. Native tab and inventory overlay rendering remain unverified."
-  }
-,
+  },
   {
     "Author": "Roxyz0501",
     "Name": "Command Atlas",
     "InternalName": "CommandAtlas",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/Roxyz0501/CommandAtlas",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CommandAtlas/main/CommandAtlas/images/icon.png",
-    "Punchline": "Browse and copy commands grouped by installed plugin.",
-    "Description": "See installed plugin names, icons and descriptions. Expand each plugin to view and copy its registered commands and help text. Search across plugins and commands. Seven UI languages. Open with /commandatlas.",
+    "Punchline": "Find, run and copy commands grouped by active plugin.",
+    "Description": "Browse active plugin names, icons and descriptions. Run or copy commands, edit arguments and add subcommands. Optional Japanese description translation via Google without an API key. Seven UI languages. Open with /commandatlas.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -197,13 +201,13 @@
       "utility",
       "search"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.0.0.0/CommandAtlas-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.0.0.0/CommandAtlas-1.0.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.0.0.0/CommandAtlas-1.0.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.0/CommandAtlas-1.1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.0/CommandAtlas-1.1.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.0/CommandAtlas-1.1.0.0.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791954666,
-    "Changelog": "Initial public preview. Browse plugin names, icons, descriptions and registered command help; expand and copy with one click. Search and seven UI languages. Native in-game acceptance remains unverified."
+    "LastUpdate": 1791956280,
+    "Changelog": "Per-command Run/Copy buttons and editable arguments; help-extracted and saved manual subcommands; disabled plugins hidden. Optional API-key-free Japanese description translation via GTranslate/Google, off by default, batched and cached locally. Native game acceptance remains unverified."
   }
 ]
