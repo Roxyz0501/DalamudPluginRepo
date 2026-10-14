@@ -179,4 +179,31 @@
     "LastUpdate": 1791733222,
     "Changelog": "Uses the canonical shared helper for trailing Settings, Language settings, and Support tabs after Lists. Saved lists, mooch bait, seven languages, and highlighting settings are preserved. Native tab and inventory overlay rendering remain unverified."
   }
+,
+  {
+    "Author": "Roxyz0501",
+    "Name": "Command Atlas",
+    "InternalName": "CommandAtlas",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Roxyz0501/CommandAtlas",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CommandAtlas/main/CommandAtlas/images/icon.png",
+    "Punchline": "Browse and copy commands grouped by installed plugin.",
+    "Description": "See installed plugin names, icons and descriptions. Expand each plugin to view and copy its registered commands and help text. Search across plugins and commands. Seven UI languages. Open with /commandatlas.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "commands",
+      "clipboard",
+      "utility",
+      "search"
+    ],
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.0.0.0/CommandAtlas-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.0.0.0/CommandAtlas-1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.0.0.0/CommandAtlas-1.0.0.0.zip",
+    "RequiredPlugins": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1791954666,
+    "Changelog": "Initial public preview. Browse plugin names, icons, descriptions and registered command help; expand and copy with one click. Search and seven UI languages. Native in-game acceptance remains unverified."
+  }
 ]
