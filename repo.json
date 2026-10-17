@@ -241,5 +241,33 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1792265526,
     "Changelog": "初回公開プレビュー。キャラ別の購入履歴、リテイナー名、税抜・税額・税込、検索・フィルタ、支出グラフ、CSV出力。導入前の履歴は復元不可。ゲーム内の実購入は未確認。"
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Kuzushi Beacon",
+    "InternalName": "KuzushiBeacon",
+    "Punchline": "自分が付与した崩しを線と頭上マーカーで表示。",
+    "Description": "PvPコンテンツ内で侍が使用している間、自分が付与した崩しの対象をローカル表示します。線・頭上マーカーの個別切替と色・サイズを設定できます。通常エリアでは監視を停止します。/kuzushibeacon で設定を開きます。 公開プレビュー：ゲーム内の表示・付与者ID・実負荷は未確認です。",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Roxyz0501/KuzushiBeacon",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KuzushiBeacon/main/KuzushiBeacon/images/icon.png",
+    "Tags": [
+      "pvp",
+      "samurai",
+      "kuzushi",
+      "overlay"
+    ],
+    "LoadRequiredState": 0,
+    "CanUnloadAsync": false,
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.0.0.0/KuzushiBeacon-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.0.0.0/KuzushiBeacon-1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.0.0.0/KuzushiBeacon-1.0.0.0.zip",
+    "RequiredPlugins": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1792265707,
+    "Changelog": "初回公開。自分が付与した崩しだけを細い線と頭上マーカーで表示。個別オン・オフ、色・透明度・サイズ調整。PvP外では監視停止。ゲーム通信の生成・変更なし。ゲーム内実機確認待ち。"
   }
 ]
