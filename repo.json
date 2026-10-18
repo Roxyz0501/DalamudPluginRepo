@@ -250,7 +250,7 @@
     "InternalName": "KuzushiBeacon",
     "Punchline": "自分が付与した崩しを線と頭上マーカーで表示。",
     "Description": "PvPコンテンツ内で侍が使用している間、自分が付与した崩しの対象をローカル表示します。線・頭上マーカーの個別切替と色・サイズを設定できます。通常エリアでは監視を停止します。/kuzushibeacon で設定を開きます。 /kuzushizantetsuken で最適な崩し対象へターゲット変更し斬鉄剣を1回試行します（マクロ可）。 公開プレビュー：ゲーム内の表示・付与者ID・実負荷は未確認です。",
-    "AssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "1.0.0.6",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Roxyz0501/KuzushiBeacon",
@@ -263,14 +263,14 @@
     ],
     "LoadRequiredState": 0,
     "CanUnloadAsync": false,
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.0.0.5/KuzushiBeacon-1.0.0.5.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.0.0.5/KuzushiBeacon-1.0.0.5.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.0.0.5/KuzushiBeacon-1.0.0.5.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.0.0.6/KuzushiBeacon-1.0.0.6.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.0.0.6/KuzushiBeacon-1.0.0.6.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.0.0.6/KuzushiBeacon-1.0.0.6.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792340053,
-    "Changelog": "LB満タンで自分の崩し対象がいるとき、自分の頭上に最大巻き込み人数を表示（対象本人を含む）。個別オン・オフ対応、色と高さはマーカー設定を共用。既存走査を再利用し、表示から攻撃は実行しません。85＋34項目のテスト済み。実ゲーム表示は未検証。"
+    "LastUpdate": 1792344333,
+    "Changelog": "斬鉄剣コマンドの発動をマクロ専用モードからホットバー押下と同じ通常モードへ変更。対象選択・事前チェック・1回のみの実行要求は維持。85＋34項目テスト済み。実ゲームでの挙動一致は未検証。"
   },
   {
     "Author": "Roxyz0501",
