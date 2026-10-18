@@ -136,8 +136,8 @@
     "Author": "Roxyz0501",
     "Name": "Allagan Local",
     "InternalName": "AllaganLocalPlugin",
-    "AssemblyVersion": "1.0.0.2",
-    "Description": "Requires Allagan Tools for inventory and gil data; AllaganMarket is additionally required for market sales history. These source plugins must record and save data. Settings show their installed/running status. Starts the bundled local website when loaded; open it from settings or /allaganlocal. Seven interface languages.",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "Requires Allagan Tools for inventory/gil; AllaganMarket for sales; Gil Ledger (MarketLedger) for purchases. Source plugins must record data. Settings show installed/running status. Includes purchase totals and character filters, CSV exports with saved column presets, and seven interface languages. Starts the local website when loaded; open from settings or /allaganlocal.",
     "Punchline": "Local inventory, gil and market history dashboard",
     "Tags": [
       "inventory",
@@ -150,13 +150,13 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/AllaganLocal",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AllaganLocal/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.0.0.2/AllaganLocalPlugin-1.0.0.2.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.0.0.2/AllaganLocalPlugin-1.0.0.2.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.0.0.2/AllaganLocalPlugin-1.0.0.2.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.1.0.0/AllaganLocalPlugin-1.1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.1.0.0/AllaganLocalPlugin-1.1.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.1.0.0/AllaganLocalPlugin-1.1.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792303538,
-    "Changelog": "履歴保存をディスク同期・正常な直前バックアップ付きに改善。バックアップからの復旧、日別集計と推移の不一致、グラフの比較元不足を修正。履歴対象一覧の不要な内部データを削減。バックアップのない破損済みデータ・未記録日は自動復元できません。"
+    "LastUpdate": 1792354242,
+    "Changelog": "購入履歴を全体・キャラクター別に表示。各一覧のCSV出力、列の選択・並べ替え・複数マイセット保存を追加。購入履歴にはGil Ledgerが必要です。更新後は設定からサイトを再起動してください。"
   },
   {
     "Author": "Roxyz0501",
