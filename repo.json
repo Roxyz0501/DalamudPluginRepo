@@ -297,5 +297,37 @@
     "Changelog": "Initial public preview: compact K/D overlay, personal kill/death feed, optional Frontline Battle High assist ranges, official final K/D/A, paged local history, CSV and opt-in Discord. In-game native integration remains unverified. Game build 2026.10.06.0000.0000 for native results/gauge.",
     "RequiredPlugins": [],
     "DownloadLinkTesting": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.0/PvPLedger-1.0.0.0.zip"
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Market Voyager",
+    "InternalName": "MarketVoyager",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "購入リスト・税込単価上限・数量上限・HQ/NQ/無視を指定して巡回購入。検索・ジャンル・NPC売却価格・一括追加変更・購入済み数リセットに対応。任意の自動NPC売却は空き枠のしきい値で発動し、購入済み数を維持して市場へ復帰します。Lifestream/vnavmesh必須。公開プレビュー：ゲーム内の購入・売却・移動は未検証。別論理DCへは現行エーテライト経路対応のLifestreamが必要です。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Roxyz0501/MarketVoyager",
+    "Tags": [
+      "market",
+      "shopping"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/MarketVoyager/main/MarketVoyager/images/icon.png",
+    "Punchline": "購入リストに沿ってリムサからワールドを巡回",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/MarketVoyager/releases/download/v1.0.0.0/MarketVoyager-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/MarketVoyager/releases/download/v1.0.0.0/MarketVoyager-1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/MarketVoyager/releases/download/v1.0.0.0/MarketVoyager-1.0.0.0.zip",
+    "RequiredPlugins": [
+      "Lifestream",
+      "vnavmesh"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1792465093,
+    "Changelog": "初回公開プレビュー。検索・ジャンル・NPC価格順・一括追加変更・税込上限・購入数リセット。残り枠に応じた任意のNPC売却と市場復帰に対応し、購入済み数は維持。Lifestream/vnavmesh必須。実ゲームでの購入・売却・移動は未検証です。"
   }
 ]
