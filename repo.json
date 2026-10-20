@@ -346,13 +346,13 @@
     "RepoUrl": "https://github.com/Roxyz0501/GilBeacon",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/GilBeacon/main/GilBeacon/images/icon.png",
     "RequiredPlugins": [],
-    "AssemblyVersion": "1.0.0.0",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.0/GilBeacon-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.0/GilBeacon-1.0.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.0/GilBeacon-1.0.0.0.zip",
+    "AssemblyVersion": "1.0.0.1",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.1/GilBeacon-1.0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.1/GilBeacon-1.0.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.1/GilBeacon-1.0.0.1.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792465385,
-    "Changelog": "初版公開プレビュー。出品を手数料込みでNPCへ売却した場合の利益を計算し、緑のハイライトと右側の利益総額を表示。HQ単価・個数・7言語に対応。ゲーム内表示と実売却額は未検証。"
+    "LastUpdate": 1792466038,
+    "Changelog": "ハイライトが出ない不具合を修正。表示済みでも立ち続ける待機フラグによる描画中止を撤去し、一覧とUIの準備状態で判断。HQ対応・右側の利益総額表示を維持。実描画の確認待ち。"
   }
 ]
