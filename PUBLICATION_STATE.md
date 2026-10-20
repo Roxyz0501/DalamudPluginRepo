@@ -1,5 +1,17 @@
 # Shared repository publication state
 
+## 2026-10-20 — Gil Beacon 1.0.0.1 highlight fix
+
+- Release: https://github.com/Roxyz0501/GilBeacon/releases/tag/v1.0.0.1
+- ZIP: https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.1/GilBeacon-1.0.0.1.zip
+- Source/tag: `b2cdad035818555fe717df673f7f3facc069c875`; ZIP 309,367 bytes; SHA-256 `732848443AA479DFEFB30BDB08D7B6C1E7BDDBDEE1472CD4D127ED69358D128A`.
+- Read-only live diagnostics found WaitingForListings=1 despite a ready addon, 35 listings, matching list count, 10 visible renderers and no pending UI/scroll update. Removed this incorrect gate. Matching counts, addon readiness, pending UI/scroll guards and per-listing item identity remain.
+- Clean Release: 0 warnings/errors; 20,049 checks passed including reported 100-gil listing versus 217-gil vendor value (112 gil profit after 5 gil tax), readiness and partial-list rejection. Source/package scans passed. Canonical tabs, HQ pricing and right-side labels preserved.
+- Public repository/icon HTTP 200; anonymous ZIP hash matches local. Shared index commit `6cd6cea7d683912886876902d7206e98152cf1bc`; pinned index returns 1.0.0.1. Main raw URL initially cached 1.0.0.0.
+- Final in-game rendering after update still awaits user confirmation. No game-memory writes, game input, or installed-DLL replacement performed.
+- Connector used for source/index/records; CLI only for unsupported Release/assets.
+
+
 ## 2026-10-20 — Market Voyager 1.0.1.0 public preview
 
 - Published under the user's standing publication instruction. Repository: https://github.com/Roxyz0501/MarketVoyager
