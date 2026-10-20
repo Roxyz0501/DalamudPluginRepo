@@ -302,7 +302,7 @@
     "Author": "Roxyz0501",
     "Name": "Market Voyager",
     "InternalName": "MarketVoyager",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.1.2",
     "Description": "購入リスト・税込単価上限・数量上限・HQ/NQ/無視を指定して巡回購入。検索・ジャンル・NPC売却価格・一括追加変更・購入済み数リセットに対応。任意の自動NPC売却は空き枠のしきい値で発動し、購入済み数を維持して市場へ復帰します。Lifestream/vnavmesh必須。公開プレビュー：ゲーム内の購入・売却・移動は未検証。別論理DCへは現行エーテライト経路対応のLifestreamが必要です。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Roxyz0501/MarketVoyager",
@@ -318,17 +318,17 @@
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/MarketVoyager/main/MarketVoyager/images/icon.png",
     "Punchline": "購入リストに沿ってリムサからワールドを巡回",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/MarketVoyager/releases/download/v1.0.1.1/MarketVoyager-1.0.1.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/MarketVoyager/releases/download/v1.0.1.1/MarketVoyager-1.0.1.1.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/MarketVoyager/releases/download/v1.0.1.1/MarketVoyager-1.0.1.1.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/MarketVoyager/releases/download/v1.0.1.2/MarketVoyager-1.0.1.2.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/MarketVoyager/releases/download/v1.0.1.2/MarketVoyager-1.0.1.2.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/MarketVoyager/releases/download/v1.0.1.2/MarketVoyager-1.0.1.2.zip",
     "RequiredPlugins": [
       "Lifestream",
       "vnavmesh"
     ],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792466524,
-    "Changelog": "登録済みリスト上部に「まとめて変更」を常設。選択行／全登録行を選び、チェックした価格・数量・品質・NPC価格からの上限だけを一括適用。購入済み数・未売却数を保持。931基本検証・810 UI等検証通過。ゲーム内動作は未検証。"
+    "LastUpdate": 1792467589,
+    "Changelog": "マーケットを開いた直後に名前入力へ進まない検索モード条件を修正。通常ボタンのクリックイベント・出品一覧の完了判定・再試行回数管理を改善。931基本検証・520検索等検証・812 UI検証通過。ゲーム内での修正確認は未実施。"
   },
   {
     "Author": "Roxyz0501",
