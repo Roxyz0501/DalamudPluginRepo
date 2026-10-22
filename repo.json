@@ -346,13 +346,13 @@
     "RepoUrl": "https://github.com/Roxyz0501/GilBeacon",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/GilBeacon/main/GilBeacon/images/icon.png",
     "RequiredPlugins": [],
-    "AssemblyVersion": "1.0.0.2",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.2/GilBeacon-1.0.0.2.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.2/GilBeacon-1.0.0.2.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.2/GilBeacon-1.0.0.2.zip",
+    "AssemblyVersion": "1.0.0.3",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.3/GilBeacon-1.0.0.3.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.3/GilBeacon-1.0.0.3.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.3/GilBeacon-1.0.0.3.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792467516,
-    "Changelog": "マテリア買取額を補正（159−99−手数料4＝利益56）。受信済みの安い出品から判定し、表示行ごとに即描画。全件の件数一致待ちを撤去。後続HQも利益が出ない価格で終了。"
+    "LastUpdate": 1792636936,
+    "Changelog": "設定を60秒ごとの変更時保存へ変更。ログアウト・終了時flush、正常3世代バックアップと破損復旧、保存失敗3回での停止・手動再試行を追加。利益計算・ハイライトは維持。"
   }
 ]
