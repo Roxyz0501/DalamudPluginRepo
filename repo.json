@@ -214,7 +214,7 @@
     "Author": "Roxyz0501",
     "Name": "Gil Ledger",
     "InternalName": "MarketLedger",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.2.0.0",
     "Description": "Gil Ledger (formerly Market Ledger) records confirmed market and ordinary gil-shop purchases per character. Filter by source, character, dates, item, seller, quality and amount; chart spending and export CSV. Unclassified gil decreases and observed transfers are kept separately and excluded from purchase totals by default. Preserves Market Ledger history and settings. /gilledger (also /marketledger). Public preview: live-game acceptance remains unverified.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Roxyz0501/MarketLedger",
@@ -235,14 +235,14 @@
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/MarketLedger/main/MarketLedger/images/icon.png",
     "Punchline": "Track market and NPC purchases, gil spending, sellers and taxes.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.1.0.0/MarketLedger-1.1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.1.0.0/MarketLedger-1.1.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.1.0.0/MarketLedger-1.1.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.2.0.0/MarketLedger-1.2.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.2.0.0/MarketLedger-1.2.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.2.0.0/MarketLedger-1.2.0.0.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792267049,
-    "Changelog": "Gil Ledgerへ改名。通常のNPCギルショップ購入とギル減少を記録し、マーケット・NPC購入・未分類・資金移動のフィルタを追加。税額不明を区別し、一覧・グラフ・CSVへ反映。旧履歴・設定と /marketledger を維持。新コマンド /gilledger。ゲーム内の実購入は未確認。"
+    "LastUpdate": 1792689344,
+    "Changelog": "設定を60秒ごとの変更時保存へ変更。正常3世代バックアップ・破損復元、日付別取引保存、共通「履歴ファイル」タブ、有限回の再試行と手動再開を追加。既存の全期間検索とAllagan LocalのSQLite互換性を維持。実ゲーム検証待ち。"
   },
   {
     "Author": "Roxyz0501",
