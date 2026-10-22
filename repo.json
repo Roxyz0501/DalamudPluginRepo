@@ -136,7 +136,7 @@
     "Author": "Roxyz0501",
     "Name": "Allagan Local",
     "InternalName": "AllaganLocalPlugin",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.3.0.0",
     "Description": "Requires Allagan Tools for inventory/gil; AllaganMarket for sales; Gil Ledger (MarketLedger) for purchases. Source plugins must record data. Settings show installed/running status. Includes purchase totals and character filters, CSV exports with saved column presets, and seven interface languages. Starts the local website when loaded; open from settings or /allaganlocal.",
     "Punchline": "Local inventory, gil and market history dashboard",
     "Tags": [
@@ -150,13 +150,13 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/AllaganLocal",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AllaganLocal/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.2.0.0/AllaganLocalPlugin-1.2.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.2.0.0/AllaganLocalPlugin-1.2.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.2.0.0/AllaganLocalPlugin-1.2.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.0/AllaganLocalPlugin-1.3.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.0/AllaganLocalPlugin-1.3.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.0/AllaganLocalPlugin-1.3.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792386193,
-    "Changelog": "ロドストのジョブ・レベル、カンスト数タグ、枠数/数量、リテイナー保管者表記を追加。既存の同プラグインサーバーを引き継いで終了・再起動可能に。ジョブはロドスト情報更新で取得します。"
+    "LastUpdate": 1792691046,
+    "Changelog": "JST日別の差分履歴保存へ変更。60秒変更時設定保存・正常3世代バックアップ・破損復元・ログアウト時flush、共通「履歴ファイル」タブを追加。価格キャッシュ差分保存・終了処理・Gil Ledger日別互換を改善。実行中の旧1.2サーバーは更新前に旧プラグインで停止してください。実ゲーム・本番履歴移行は未検証。"
   },
   {
     "Author": "Roxyz0501",
