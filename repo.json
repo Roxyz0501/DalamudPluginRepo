@@ -276,7 +276,7 @@
     "Author": "Roxyz0501",
     "Name": "PvP Ledger",
     "InternalName": "PvPLedger",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "RepoUrl": "https://github.com/Roxyz0501/PvPLedger",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/PvPLedger/main/PvPLedger/images/icon.png",
     "Punchline": "A quiet personal PvP overlay and match journal.",
@@ -289,14 +289,14 @@
       "history",
       "csv"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.0/PvPLedger-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.0/PvPLedger-1.0.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.1/PvPLedger-1.0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.1/PvPLedger-1.0.0.1.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792266260,
-    "Changelog": "Initial public preview: compact K/D overlay, personal kill/death feed, optional Frontline Battle High assist ranges, official final K/D/A, paged local history, CSV and opt-in Discord. In-game native integration remains unverified. Game build 2026.10.06.0000.0000 for native results/gauge.",
+    "LastUpdate": 1792633092,
+    "Changelog": "1.0.0.1: Changed-only 60-second settings saves with three backups and recovery; UTC date-partitioned per-match history with legacy compatibility; History files tab; bounded failure handling and shutdown cleanup. Retention unchanged. Actual in-game/native integration and live Discord remain unverified.",
     "RequiredPlugins": [],
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.0/PvPLedger-1.0.0.0.zip"
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.1/PvPLedger-1.0.0.1.zip"
   },
   {
     "Author": "Roxyz0501",
