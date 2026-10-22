@@ -1,5 +1,16 @@
 # Shared repository publication state
 
+## 2026-10-23 — Bait Beacon 1.0.0.2
+
+- Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v1.0.0.2
+- ZIP: https://github.com/Roxyz0501/BaitBeacon/releases/download/v1.0.0.2/BaitBeacon-1.0.0.2.zip
+- Source/tag: `5144dcff6f7df3d022819c9ba9d8795d006ec964`; ZIP 65,970 bytes, five allowlisted files; SHA-256 `8116DF2EE3BB69A7641DB2F5C0C55383AD726AE4E11B1151080D929A8898BB8E`.
+- Inventory drawing and saved-list reads stop after three consecutive failures, use spaced retries, retain valid data and expose manual retry. Settings use 60-second changed-only saves, logout/normal-exit flush, validated atomic replacement, three valid backups and corruption recovery.
+- Clean Release: zero warnings/errors; 66 offline checks passed. Eight-hour unchanged simulation: zero writes; 600 edits: one save, 156 logical payload bytes. Lock/partial-write/rename/corruption/disposal checks passed. Canonical standard tabs remain byte-identical. No history store or empty history tab is added.
+- Public repository and PNG icon returned HTTP 200 (image/png); anonymous downloaded ZIP hash matched, and package manifest author/version/RepoUrl/IconUrl/license/NOTICE verified. GitHub Release asset digest also matched.
+- Shared index registration `f8143ac31e15a0f6768b0d11d890f1933f8ade4a` changes only BaitBeacon, preserving all 12 other entries. Connector reads of commit-pinned and normal main raw URLs both returned all 13 entries and BaitBeacon 1.0.0.2.
+- Source/index/record writes use GitHub connector; CLI is used only for unsupported Release/ZIP upload and local Git synchronization. Native in-game rendering and actual logout/shutdown timing remain unverified. No installed DLL or production data modified.
+
 ## 2026-10-23 — Character Archive 1.0.0.2 published
 
 - Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.0.0.2
