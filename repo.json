@@ -188,7 +188,7 @@
     "Author": "Roxyz0501",
     "Name": "Command Atlas",
     "InternalName": "CommandAtlas",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.0.1",
     "RepoUrl": "https://github.com/Roxyz0501/CommandAtlas",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CommandAtlas/main/CommandAtlas/images/icon.png",
     "Punchline": "Find, run and copy commands grouped by active plugin.",
@@ -201,14 +201,14 @@
       "utility",
       "search"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.0/CommandAtlas-1.1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.0/CommandAtlas-1.1.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.0/CommandAtlas-1.1.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.1/CommandAtlas-1.1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.1/CommandAtlas-1.1.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.1/CommandAtlas-1.1.0.1.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791956280,
-    "Changelog": "Per-command Run/Copy buttons and editable arguments; help-extracted and saved manual subcommands; disabled plugins hidden. Optional API-key-free Japanese description translation via GTranslate/Google, off by default, batched and cached locally. Native game acceptance remains unverified."
+    "LastUpdate": 1792689254,
+    "Changelog": "設定を60秒ごとの変更時保存へ集約し、ログアウト・終了時に保存。正常3世代バックアップと破損復元を追加。翻訳・アイコン処理を終了時に回収し、3回連続失敗で停止・手動再試行に対応。実ゲーム未検証の公開プレビュー。"
   },
   {
     "Author": "Roxyz0501",
