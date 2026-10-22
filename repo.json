@@ -28,7 +28,7 @@
     "Author": "Roxyz0501",
     "Name": "Character Archive",
     "InternalName": "CharacterArchive",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "Description": "Stores logged-in character details, jobs, playtime, Lodestone IDs, and configuration-folder mappings locally, then presents them in a searchable UI and CSV export. Optional external lookup and login-time playtime acquisition require explicit settings.",
     "Punchline": "Manage characters, jobs, playtime, Lodestone profiles, and configuration folders.",
     "Tags": [
@@ -42,12 +42,12 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/CharacterArchive",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CharacterArchive/main/CharacterArchive/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.0.0.1/CharacterArchive-1.0.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.0.0.1/CharacterArchive-1.0.0.1.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.0.0.2/CharacterArchive-1.0.0.2.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.0.0.2/CharacterArchive-1.0.0.2.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791733480,
-    "Changelog": "Adopted the canonical trailing-tab helper so every plugin-specific tab is followed by Settings, Language settings, then Support. Existing character archive, Lodestone lookup, job, playtime, and CSV behavior are preserved. In-game rendering remains unverified."
+    "LastUpdate": 1792689542,
+    "Changelog": "設定・キャラクター情報を60秒変更時保存へ統一し、ログアウト・正常終了時保存、正常3世代バックアップと破損復旧を追加。不完全な取得結果で上書きせず、3回失敗時に停止して手動再試行。同一キャラ検索の重複抑制と終了時回収、画像保持を改善。Releaseビルド警告0/エラー0、43保存・終了検証と基本テスト通過。実ゲーム未確認。"
   },
   {
     "Author": "Roxyz0501",
