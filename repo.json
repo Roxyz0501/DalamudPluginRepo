@@ -136,7 +136,7 @@
     "Author": "Roxyz0501",
     "Name": "Allagan Local",
     "InternalName": "AllaganLocalPlugin",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.3.0.1",
     "Description": "Requires Allagan Tools for inventory/gil; AllaganMarket for sales; Gil Ledger (MarketLedger) for purchases. Source plugins must record data. Settings show installed/running status. Includes purchase totals and character filters, CSV exports with saved column presets, and seven interface languages. Starts the local website when loaded; open from settings or /allaganlocal.",
     "Punchline": "Local inventory, gil and market history dashboard",
     "Tags": [
@@ -150,13 +150,13 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/AllaganLocal",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AllaganLocal/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.0/AllaganLocalPlugin-1.3.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.0/AllaganLocalPlugin-1.3.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.0/AllaganLocalPlugin-1.3.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.1/AllaganLocalPlugin-1.3.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.1/AllaganLocalPlugin-1.3.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.1/AllaganLocalPlugin-1.3.0.1.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792691046,
-    "Changelog": "JST日別の差分履歴保存へ変更。60秒変更時設定保存・正常3世代バックアップ・破損復元・ログアウト時flush、共通「履歴ファイル」タブを追加。価格キャッシュ差分保存・終了処理・Gil Ledger日別互換を改善。実行中の旧1.2サーバーは更新前に旧プラグインで停止してください。実ゲーム・本番履歴移行は未検証。"
+    "LastUpdate": 1792736560,
+    "Changelog": "売上カードの名前・サーバーと金額・件数を行で分離し、長い名前でもカードの高さや件数表示がずれないよう修正。リテイナー別・購入履歴の同種表示も対応。3テーマ×5画面幅で検証済み。"
   },
   {
     "Author": "Roxyz0501",
