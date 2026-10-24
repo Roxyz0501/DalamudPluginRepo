@@ -354,5 +354,30 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1792636936,
     "Changelog": "設定を60秒ごとの変更時保存へ変更。ログアウト・終了時flush、正常3世代バックアップと破損復旧、保存失敗3回での停止・手動再試行を追加。利益計算・ハイライトは維持。"
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Hotbar Studio",
+    "InternalName": "HotbarStudio",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 15,
+    "Punchline": "Preview, copy and move hotbar slots and bars.",
+    "Description": "通常・クロスホットバーの共通／ジョブ／PvPプレビューから1枠・バー全体をコピー・移動。複数先への一括コピー、適用前プレビュー、変更履歴からの復元。可能な操作はゲーム内コマンド、その他はローカルデータ編集。独自パケット送信なし。/hotbarstudio。初版公開プレビュー：ゲーム実機での保存・再ログイン後の保持は未検証。",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "hotbar",
+      "crosshotbar",
+      "utility"
+    ],
+    "RepoUrl": "https://github.com/Roxyz0501/HotbarStudio",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/HotbarStudio/main/HotbarStudio/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/HotbarStudio/releases/download/v1.0.0.0/HotbarStudio-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/HotbarStudio/releases/download/v1.0.0.0/HotbarStudio-1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/HotbarStudio/releases/download/v1.0.0.0/HotbarStudio-1.0.0.0.zip",
+    "RequiredPlugins": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1792840560,
+    "Changelog": "初版。1枠／バーのドラッグコピー・移動、一括コピー、競合検出、移動先検証後の元消去、UTC日付別履歴・復元プレビュー、7言語。460基本検証・2432描画/フロー検証、Release警告0/エラー0。実ゲーム未検証。"
   }
 ]
