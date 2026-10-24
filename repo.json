@@ -359,10 +359,10 @@
     "Author": "Roxyz0501",
     "Name": "Hotbar Studio",
     "InternalName": "HotbarStudio",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "DalamudApiLevel": 15,
     "Punchline": "Preview, copy and move hotbar slots and bars.",
-    "Description": "通常・クロスホットバーの共通／ジョブ／PvPプレビューから1枠・バー全体をコピー・移動。複数先への一括コピー、適用前プレビュー、変更履歴からの復元。可能な操作はゲーム内コマンド、その他はローカルデータ編集。独自パケット送信なし。/hotbarstudio。初版公開プレビュー：ゲーム実機での保存・再ログイン後の保持は未検証。",
+    "Description": "通常・クロスホットバーの共通／ジョブ／PvPプレビューから1枠・バー全体をコピー・移動。複数先への一括コピー、適用前プレビュー、変更履歴からの復元。可能な操作はゲーム内コマンド、その他はローカルデータ編集。独自パケット送信なし。/hotbarstudio。公開プレビュー：ゲーム実機での保存・再ログイン後の保持は未検証。 PvE⇔PvP間のローカル転送に対応。",
     "ApplicableVersion": "any",
     "Tags": [
       "hotbar",
@@ -371,13 +371,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/HotbarStudio",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/HotbarStudio/main/HotbarStudio/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/HotbarStudio/releases/download/v1.0.0.0/HotbarStudio-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/HotbarStudio/releases/download/v1.0.0.0/HotbarStudio-1.0.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/HotbarStudio/releases/download/v1.0.0.0/HotbarStudio-1.0.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/HotbarStudio/releases/download/v1.0.0.1/HotbarStudio-1.0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/HotbarStudio/releases/download/v1.0.0.1/HotbarStudio-1.0.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/HotbarStudio/releases/download/v1.0.0.1/HotbarStudio-1.0.0.1.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792840560,
-    "Changelog": "初版。1枠／バーのドラッグコピー・移動、一括コピー、競合検出、移動先検証後の元消去、UTC日付別履歴・復元プレビュー、7言語。460基本検証・2432描画/フロー検証、Release警告0/エラー0。実ゲーム未検証。"
+    "LastUpdate": 1792854135,
+    "Changelog": "PvE⇔PvPの1枠・バー全体コピー／移動を追加。モード間転送はコマンド生成・送信を通さずローカル保存領域のみを編集。PvEスキルの除外・アクション変換は行いません。移動先確認後の元消去を維持。476基本・2496描画/フロー検証通過、実ゲーム未検証。"
   }
 ]
