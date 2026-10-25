@@ -108,7 +108,7 @@
     "Author": "Roxyz0501",
     "Name": "Retainer Listing Helper",
     "InternalName": "RetainerRecall",
-    "AssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "保存単価での連続出品と、出品アイテムの一括回収を補助",
@@ -123,14 +123,14 @@
       "連続出品",
       "出品回収"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.2/RetainerRecall-1.0.0.2.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.2/RetainerRecall-1.0.0.2.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.2/RetainerRecall-1.0.0.2.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.3/RetainerRecall-1.0.0.3.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.3/RetainerRecall-1.0.0.3.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/RetainerRecall/releases/download/v1.0.0.3/RetainerRecall-1.0.0.3.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792689985,
-    "Changelog": "通常設定を60秒ごとの変更時保存へ変更。ログアウト・終了flush、正常3世代バックアップと破損復元、保存失敗の有限停止を追加。価格履歴はログイン中のみ。25保存検証・149基本検証・16ネイティブ検証・29 UI検証通過。実ゲーム動作は未検証。"
+    "LastUpdate": 1792906876,
+    "Changelog": "全体再確認：価格記憶時に実際の出品元スロットの数量減少も確認。手動出品の所持品参照先と旧0.1設定の読み込みを修正し、ネイティブ境界チェックを補強。229項目の検証通過。実ゲーム動作とアーマリー満杯時の停止解消は未検証。"
   },
   {
     "Author": "Roxyz0501",
