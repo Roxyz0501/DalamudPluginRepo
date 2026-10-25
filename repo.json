@@ -136,7 +136,7 @@
     "Author": "Roxyz0501",
     "Name": "Allagan Local",
     "InternalName": "AllaganLocalPlugin",
-    "AssemblyVersion": "1.3.0.1",
+    "AssemblyVersion": "1.3.0.2",
     "Description": "Requires Allagan Tools for inventory/gil; AllaganMarket for sales; Gil Ledger (MarketLedger) for purchases. Source plugins must record data. Settings show installed/running status. Includes purchase totals and character filters, CSV exports with saved column presets, and seven interface languages. Starts the local website when loaded; open from settings or /allaganlocal.",
     "Punchline": "Local inventory, gil and market history dashboard",
     "Tags": [
@@ -150,13 +150,13 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/AllaganLocal",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AllaganLocal/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.1/AllaganLocalPlugin-1.3.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.1/AllaganLocalPlugin-1.3.0.1.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.1/AllaganLocalPlugin-1.3.0.1.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.2/AllaganLocalPlugin-1.3.0.2.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.2/AllaganLocalPlugin-1.3.0.2.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.2/AllaganLocalPlugin-1.3.0.2.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792736560,
-    "Changelog": "売上カードの名前・サーバーと金額・件数を行で分離し、長い名前でもカードの高さや件数表示がずれないよう修正。リテイナー別・購入履歴の同種表示も対応。3テーマ×5画面幅で検証済み。"
+    "LastUpdate": 1792905930,
+    "Changelog": "全体再チェックで、履歴移行マーカー消失後の復旧、破損バックアップによる保存停止、バックアップ更新再試行、購入履歴ワーカー再生成・終了時の競合、価格キャッシュ破損時の起動失敗を修正。Web/API70件・旧Web49件・設定14件・ホスト14件、ブラウザ18操作と15画面条件で検証。実ゲームは未検証。"
   },
   {
     "Author": "Roxyz0501",
