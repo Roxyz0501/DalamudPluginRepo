@@ -346,14 +346,14 @@
     "RepoUrl": "https://github.com/Roxyz0501/GilBeacon",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/GilBeacon/main/GilBeacon/images/icon.png",
     "RequiredPlugins": [],
-    "AssemblyVersion": "1.0.0.3",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.3/GilBeacon-1.0.0.3.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.3/GilBeacon-1.0.0.3.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.3/GilBeacon-1.0.0.3.zip",
+    "AssemblyVersion": "1.0.0.4",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.4/GilBeacon-1.0.0.4.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.4/GilBeacon-1.0.0.4.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.4/GilBeacon-1.0.0.4.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792636936,
-    "Changelog": "設定を60秒ごとの変更時保存へ変更。ログアウト・終了時flush、正常3世代バックアップと破損復旧、保存失敗3回での停止・手動再試行を追加。利益計算・ハイライトは維持。"
+    "LastUpdate": 1792906301,
+    "Changelog": "全体再チェック：商品取得失敗時の旧価格残留、HQ/NQと表示商品IDの照合不足を修正。描画例外は5秒間隔・3回で停止し再試行可能。未対応設定Versionの上書きと不正描画座標を防止。"
   },
   {
     "Author": "Roxyz0501",
