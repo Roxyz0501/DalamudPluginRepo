@@ -1,5 +1,16 @@
 # Shared repository publication state
 
+## 2026-10-25 — Bait Beacon 1.0.0.3 review fixes
+
+- Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v1.0.0.3
+- ZIP: https://github.com/Roxyz0501/BaitBeacon/releases/download/v1.0.0.3/BaitBeacon-1.0.0.3.zip
+- Source/tag: `fc979cfc700df1c0177bc892e8012ca99d0abee3`; ZIP 67,463 bytes, five allowlisted files; SHA-256 `EF62E7DFD454982BB5AD32F41F6C8F34A80EFB9A821F0C6E96ACBFA3601E6A89`.
+- Fixed incomplete target/prerequisite bait detection, malformed list snapshot replacement, retainer page 6/7 exclusion and glyph coverage for new list names. Quantity display now scans inventory once for all relevant bait.
+- 81 offline checks passed; previous resolver/reader reproduce new regression failures; 2,616 recipes checked for cycles. Release zero warnings/errors; shared tabs match canonical source. See REVIEW_2026-10-25.md for evidence and limitations.
+- Anonymous repository/icon HTTP200 (image/png), ZIP hash and packaged manifest verified. Shared index commit `19d60195b6b0680a225d139dbc83bc4f9fb03a07`: pinned and normal main URLs verified at 1.0.0.3; all 13 other entries preserved.
+- Published under the project-wide continuing authorization dated 2026-10-23. Connector used for supported source/index/records; CLI for unsupported Release/assets and local Git sync. Live-game overlay/font-atlas/lifecycle remain unverified. No installed DLL or production configuration modified.
+
+
 ## 2026-10-25 — Gil Ledger 1.2.0.1 review fixes published
 
 - Release: https://github.com/Roxyz0501/MarketLedger/releases/tag/v1.2.0.1
