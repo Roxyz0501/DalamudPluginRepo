@@ -81,7 +81,7 @@
     "Author": "Roxyz0501",
     "Name": "BGMPlayer",
     "InternalName": "AetherRadio",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "ゲーム内のBGMを選んで再生できます。",
@@ -95,14 +95,14 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.0.0/AetherRadio-1.1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.0.0/AetherRadio-1.1.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.0.0/AetherRadio-1.1.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.1.0/AetherRadio-1.1.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.1.0/AetherRadio-1.1.1.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.1.0/AetherRadio-1.1.1.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "RequiredPlugins": [],
-    "LastUpdate": 1792265002,
-    "Changelog": "ミニプレイヤーにゲームBGMへの復帰とお気に入りボタンを追加。レイドを通常・零式／アライアンス／特殊コンテンツに分類。拡張間の重複表示設定と最近再生した30曲の一覧を追加しました。"
+    "LastUpdate": 1792906317,
+    "Changelog": "メインプレイヤーにミニプレイヤーの表示切り替えを追加。設定の変更時のみ60秒ごとに保存し、終了時の保存と3世代バックアップに対応しました。設定復元・終了後の再生要求・ゲームBGMへの復帰情報を修正。"
   },
   {
     "Author": "Roxyz0501",
