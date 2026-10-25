@@ -1,5 +1,17 @@
 # Shared repository publication state
 
+## 2026-10-25 — Character Archive 1.1.0.0 MSQ progress and review fixes
+
+- Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.1.0.0
+- ZIP: https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.1.0.0/CharacterArchive-1.1.0.0.zip
+- Source/tag: `05c7e16bc9ce5b2e6dfa4265cd4c9182debbd3eb`; ZIP 98,064 bytes, four allowlisted files; SHA-256 `E66F4C3E27B40F58D77F377B318F200847D1F74FE90D879A8C0E9F2103D4B1E9`.
+- Added per-character read-only main-scenario progress in Overview and Details. Cached installed quest graph, selected guide path, accepted/last-completed state and verified endpoint completion; 10-second local reads, changed-only persistence, offline snapshots and no extra server requests.
+- Reviewed all production code and fixed nine issue groups: exact Lodestone identity, face/HTTP failure handling and safe bounded requests, late manual-edit overwrite, login readiness/early playtime buffering, future/invalid configuration recovery, backup maintenance retry, UI caching/identity/scrolling, CSV durability and localization/privacy. See REVIEW_2026-10-25.md.
+- Clean locked-dependency Release rebuild: zero warnings/errors. Existing core and all-UI seven-language keys plus 43 persistence, 57 MSQ/review and 12 offline catalogue checks passed. Installed catalogue: 1,050 MSQs in each of four game languages with matching endpoint. Synthetic 600 edits: one save / 238 logical bytes; unchanged periods and MSQ observations: zero extra writes/dirty marks. Physical SSD IO and native game behavior remain unverified.
+- Anonymous repository/release/icon HTTP200 (image/png); public ZIP hash and manifest verified. Shared index `c5f82f938d7cb50af16fc976c1a7b163a9809a9c`: connector, pinned and normal main raw URLs verified at 1.1.0.0; all 13 other entries preserved.
+- Published under the 2026-10-23 project-wide continuing authorization. Connector used for supported source/index/records; CLI for Release/assets and local Git synchronization. No installed DLL or production configuration replaced. Real game acquisition/lifecycle, live Lodestone markup and seven-language visual/font acceptance remain unverified.
+
+
 ## 2026-10-25 — Bait Beacon 1.0.0.3 review fixes
 
 - Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v1.0.0.3
