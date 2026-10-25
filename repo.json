@@ -250,7 +250,7 @@
     "InternalName": "KuzushiBeacon",
     "Punchline": "PvPの対象選択・崩し・生存支援・戦績記録。",
     "Description": "旧Kuzushi Beacon。ジョブ連動/距離指定の最低HP・最寄り・味方選択、崩し/斬鉄剣、攻撃機会・生存・味方の表示と通知、K/D/A・キルログ・履歴・CSVを統合。個別オンオフ、ジャンル別タブ、通知音量と検証モード。/pvpsupporter で設定。内部ID・既存設定・旧コマンド維持。公開プレビュー：実ゲームでの検知・操作・負荷は未検証です。",
-    "AssemblyVersion": "1.1.0.7",
+    "AssemblyVersion": "1.1.0.8",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Roxyz0501/KuzushiBeacon",
@@ -263,14 +263,14 @@
     ],
     "LoadRequiredState": 0,
     "CanUnloadAsync": false,
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.7/KuzushiBeacon-1.1.0.7.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.7/KuzushiBeacon-1.1.0.7.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.7/KuzushiBeacon-1.1.0.7.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.8/KuzushiBeacon-1.1.0.8.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.8/KuzushiBeacon-1.1.0.8.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.8/KuzushiBeacon-1.1.0.8.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792766055,
-    "Changelog": "斬鉄剣コマンドに浄化の先行使用を追加。解除・硬直終了を最大2秒待ち、条件を再確認してLBを一度要求。連打で待機をリセット・延長しません。自分を狙う敵の観測数に頭上表示・色・文字サイズ・高さ設定を追加。487基本チェック・68ホストチェック・487UIフレーム検証。実ゲーム動作は未検証。敵LB満タンハイライトは取得元未確認のため未実装。"
+    "LastUpdate": 1792905544,
+    "Changelog": "斬鉄剣の失敗理由をMESSAGE表示（崩しなし、除外、射程/遮蔽、LB不足、バインド・沈黙等の観測状態、使用不可コード）。LB消費未確認の監視は3秒で終了し不明と表示。自動浄化と解除後の自動LB継続を削除、旧設定も無効化。通常AoEの巻き込み人数に防御/無敵除外が反映されない不具合を修正。394基本・78ホスト・2789戦績・487UI検証。実ゲーム未検証。"
   },
   {
     "Author": "Roxyz0501",
