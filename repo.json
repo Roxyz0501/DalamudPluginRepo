@@ -384,11 +384,11 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.5.0",
+    "AssemblyVersion": "1.0.6.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
-    "Punchline": "一度表示された出題だけを自動入力。バリア強化・詠唱を優先。",
-    "Description": "定期的に文字が隠れる状態で、一度も表示されていない出題を候補から除外。敵IDと出題ごとに実際の文字表示を確認し、一度見えた同じ出題は再非表示中も継続します。出題変更・対象消失で履歴を更新。表示判定ログを追加。フェーズ継続・終了時停止、記号ボタン、バリア強化と詠唱優先、対象消失時削除、IMEひらがな入力、ジャマー推定後4秒待機を維持。/keyboundpilot。修正後の実ゲーム動作は未検証の公開プレビューです。",
+    "Punchline": "バリア・詠唱・手前の移動敵を優先。送信後ディレイを設定。",
+    "Description": "バリア強化→詠唱中→移動中で最も手前の敵→その他の順に入力。近さは画面上の手前位置で判定します。回答送信後の待ち時間を0〜60000msで設定可能、初期値0ms。表示未確認の出題除外、フェーズ継続・終了時停止、記号ボタン、対象消失時削除、IMEひらがな入力、ジャマー推定後4秒待機を維持。/keyboundpilot。更新後の実ゲーム動作は未検証の公開プレビューです。",
     "Tags": [
       "gold saucer",
       "typing",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.5.0/KeyboundPilot-1.0.5.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.5.0/KeyboundPilot-1.0.5.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.5.0/KeyboundPilot-1.0.5.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.6.0/KeyboundPilot-1.0.6.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.6.0/KeyboundPilot-1.0.6.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.6.0/KeyboundPilot-1.0.6.0.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793187017,
-    "Changelog": "1.0.5.0: 一度も文字表示を確認していない出題を候補から除外。敵IDと出題ごとに表示履歴を保持し、一度見えた同じ出題は再非表示中も継続。出題変更・消失時にリセット。文字表示判定の差分ログを追加。改修後の実ゲーム動作は未検証。"
+    "LastUpdate": 1793187538,
+    "Changelog": "1.0.6.0: バリア強化→詠唱中→移動中で最も手前→その他に優先順位を変更。近さは画面上の位置で判定。送信後の待ち時間0〜60000ms（初期値0）を設定に追加。未表示の出題は候補から除外。更新後の実ゲーム動作は未検証。"
   }
 ]
