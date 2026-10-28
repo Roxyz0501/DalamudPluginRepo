@@ -81,7 +81,7 @@
     "Author": "Roxyz0501",
     "Name": "BGMPlayer",
     "InternalName": "AetherRadio",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.1.2.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "ゲーム内のBGMを選んで再生できます。",
@@ -95,14 +95,14 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.1.0/AetherRadio-1.1.1.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.1.0/AetherRadio-1.1.1.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.1.0/AetherRadio-1.1.1.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.2.0/AetherRadio-1.1.2.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.2.0/AetherRadio-1.1.2.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.2.0/AetherRadio-1.1.2.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "RequiredPlugins": [],
-    "LastUpdate": 1792906317,
-    "Changelog": "メインプレイヤーにミニプレイヤーの表示切り替えを追加。設定の変更時のみ60秒ごとに保存し、終了時の保存と3世代バックアップに対応しました。設定復元・終了後の再生要求・ゲームBGMへの復帰情報を修正。"
+    "LastUpdate": 1793151378,
+    "Changelog": "オーケストリオンのファイル表からも曲を収集。「闘う者達」「更に闘う者達」など、通常BGM表にないインストール済みの曲を追加。コンテンツとの対応がない曲は「その他」に表示します。追加曲の実ゲーム内の音声動作は未確認の公開プレビューです。"
   },
   {
     "Author": "Roxyz0501",
