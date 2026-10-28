@@ -384,7 +384,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.13.1",
+    "AssemblyVersion": "1.0.13.2",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.13.1/KeyboundPilot-1.0.13.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.13.1/KeyboundPilot-1.0.13.1.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.13.1/KeyboundPilot-1.0.13.1.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.13.2/KeyboundPilot-1.0.13.2.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.13.2/KeyboundPilot-1.0.13.2.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.13.2/KeyboundPilot-1.0.13.2.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793204095,
-    "Changelog": "1.0.13.1: 自動入力画面と周回操作を整理。ドラッグ・ダブルクリックで数値編集、設定でデバッグ表示を切替。診断ログを非表示・停止。READMEは英語→日本語で使い方を案内。"
+    "LastUpdate": 1793204439,
+    "Changelog": "1.0.13.2: 入力間隔の上限・下限を変更したとき、もう片方の値まで変わる不具合を修正。変更した側だけを現在の範囲内に制限します。"
   }
 ]
