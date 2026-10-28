@@ -81,7 +81,7 @@
     "Author": "Roxyz0501",
     "Name": "BGMPlayer",
     "InternalName": "AetherRadio",
-    "AssemblyVersion": "1.1.3.0",
+    "AssemblyVersion": "1.2.0.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "ゲーム内のBGMを選んで再生できます。",
@@ -95,14 +95,14 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.3.0/AetherRadio-1.1.3.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.3.0/AetherRadio-1.1.3.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.1.3.0/AetherRadio-1.1.3.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.2.0.0/AetherRadio-1.2.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.2.0.0/AetherRadio-1.2.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.2.0.0/AetherRadio-1.2.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "RequiredPlugins": [],
-    "LastUpdate": 1793156191,
-    "Changelog": "追加曲の再生に無音用BGM_Nullを選んでしまう不具合を修正。タイトル画面用・現在再生中のBGMも候補から除外。追加曲が8秒以内に読み込み処理へ到達しない場合は停止してエラーを表示します。実ゲーム内の音出しは未確認の公開プレビューです。"
+    "LastUpdate": 1793157898,
+    "Changelog": "メイン・ミニにシークバーを追加。対応曲はWindows既定の出力先で再生し、クリック／ドラッグで移動できます。音量はプレイヤーで調整してください（ゲームの音量・ミュート設定は適用されません）。実ゲーム内の音出しは未確認の公開プレビューです。"
   },
   {
     "Author": "Roxyz0501",
