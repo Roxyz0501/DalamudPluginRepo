@@ -379,5 +379,32 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1792854135,
     "Changelog": "PvE⇔PvPの1枠・バー全体コピー／移動を追加。モード間転送はコマンド生成・送信を通さずローカル保存領域のみを編集。PvEスキルの除外・アクション変換は行いません。移動先確認後の元消去を維持。476基本・2496描画/フロー検証通過、実ゲーム未検証。"
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Keybound Pilot",
+    "InternalName": "KeyboundPilot",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "Punchline": "キーバウンド・ブロウラーの文字入力とランダムな入力間隔設定。",
+    "Description": "公開プレビュー：実ゲームの出題取得・フォーカス判定・キー認識は未検証です。Windowsの実キーボード押下・解放イベントで文字を入力し、Configで下限・上限（20〜5000ms、初期80〜150ms）を指定。範囲内でランダム待機し、同値で固定間隔。Esc・フォーカス解除で停止。/keyboundpilot。7言語対応。",
+    "Tags": [
+      "gold saucer",
+      "typing",
+      "keybound brawler",
+      "automation",
+      "タイピング"
+    ],
+    "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.0.0/KeyboundPilot-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.0.0/KeyboundPilot-1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.0.0/KeyboundPilot-1.0.0.0.zip",
+    "RequiredPlugins": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1793177238,
+    "Changelog": "1.0.0.0 初回公開プレビュー。実キーボードイベントの送信と入力間隔の下限・上限Config。Release警告0/エラー0、オフライン29検証通過。実ゲームの文字取得・入力認識とライブ描画は未検証です。"
   }
 ]
