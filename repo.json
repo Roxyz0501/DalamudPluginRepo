@@ -384,11 +384,11 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
-    "Punchline": "キーバウンド・ブロウラーの文字入力とランダムな入力間隔設定。",
-    "Description": "公開プレビュー：実ゲームの出題取得・フォーカス判定・キー認識は未検証です。Windowsの実キーボード押下・解放イベントで文字を入力し、Configで下限・上限（20〜5000ms、初期80〜150ms）を指定。範囲内でランダム待機し、同値で固定間隔。Esc・フォーカス解除で停止。/keyboundpilot。7言語対応。",
+    "Punchline": "プレイ中の診断ログ取得と、キー入力・入力間隔設定。",
+    "Description": "診断ログ対応の公開プレビュー。文字が入力されない問題を調査中です。コンテンツ内では自動入力停止中も専用UI状態をローカル記録。更新後に手動で1回プレイし、/keyboundpilot の診断ログタブから保存先を確認できます。チャット・プレイヤー名・入力文字列・生のキーは記録しません。実ゲーム入力・詠唱優先・入力禁止判定は未確認。",
     "Tags": [
       "gold saucer",
       "typing",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.0.0/KeyboundPilot-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.0.0/KeyboundPilot-1.0.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.0.0/KeyboundPilot-1.0.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.1.0/KeyboundPilot-1.0.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.1.0/KeyboundPilot-1.0.1.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.1.0/KeyboundPilot-1.0.1.0.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793177238,
-    "Changelog": "1.0.0.0 初回公開プレビュー。実キーボードイベントの送信と入力間隔の下限・上限Config。Release警告0/エラー0、オフライン29検証通過。実ゲームの文字取得・入力認識とライブ描画は未検証です。"
+    "LastUpdate": 1793178885,
+    "Changelog": "1.0.1.0：手動プレイでも自動取得する診断ログを追加。100ms変化確認・2秒まとめ追記・退出flush・上限あり。入力不具合、詠唱優先、入力禁止は実ログから調査します。Enter確定と出題配列参照も修正しましたが、実機成功は未確認。41検証通過。"
   }
 ]
