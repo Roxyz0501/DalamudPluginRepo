@@ -384,7 +384,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.16.7",
+    "AssemblyVersion": "1.0.16.8",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.7/KeyboundPilot-1.0.16.7.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.7/KeyboundPilot-1.0.16.7.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.7/KeyboundPilot-1.0.16.7.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.8/KeyboundPilot-1.0.16.8.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.8/KeyboundPilot-1.0.16.8.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.8/KeyboundPilot-1.0.16.8.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793244490,
-    "Changelog": "1.0.16.7: 周回ボタンの右に「この周回で停止」を追加。今の周回を終えてスクウェアへ戻ったら、次の申請をせずに停止します。"
+    "LastUpdate": 1793268671,
+    "Changelog": "1.0.16.8: 停止予約をもう一度押して取り消せるように変更。日付ごとに見直せるスコア履歴を追加。プレイ中の自分のスコアと、結果画面から取得できた参加者の最終スコアを表示・記録します。"
   }
 ]
