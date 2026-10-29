@@ -384,7 +384,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.15.0",
+    "AssemblyVersion": "1.0.16.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.15.0/KeyboundPilot-1.0.15.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.15.0/KeyboundPilot-1.0.15.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.15.0/KeyboundPilot-1.0.15.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.0/KeyboundPilot-1.0.16.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.0/KeyboundPilot-1.0.16.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.0/KeyboundPilot-1.0.16.0.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793237924,
-    "Changelog": "1.0.15.0: バックグラウンドモードを追加（初期値オフ）。変換済みの文字を直接入力し、非アクティブ時も入力・周回。通常モードに合わせた入力間隔と確定待ち時間を適用。"
+    "LastUpdate": 1793238834,
+    "Changelog": "1.0.16.0: 設定項目の順序を整理し、説明をiアイコンのホバー表示へ変更。送信後待機時間・タイプミス抽選回数の下限と上限を個別設定。既存設定を引き継ぎます。"
   }
 ]
