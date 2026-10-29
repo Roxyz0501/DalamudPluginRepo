@@ -384,11 +384,11 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.14.0",
+    "AssemblyVersion": "1.0.15.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
-    "Description": "キーバウンド・ブロウラーの出題を読み取り、キーボード操作で回答するプラグインです。バリア強化・詠唱中の敵を優先し、入力禁止時は待機します。/keyboundpilot で画面を開き、設定で入力間隔を指定してください。通常は再生ボタンで開始。周回はスクウェアで回数を指定し、「▶ 周回」ボタンで申請から開始します。一時停止・停止もボタンで操作できます。",
+    "Description": "キーバウンド・ブロウラーの出題を読み取り、キーボード操作またはバックグラウンドモードで回答するプラグインです。バリア強化・詠唱中の敵を優先し、入力禁止時は待機します。/keyboundpilot で画面を開き、設定で入力間隔を指定してください。通常は再生ボタンで開始。周回はスクウェアで回数を指定し、「▶ 周回」ボタンで申請から開始します。一時停止・停止もボタンで操作できます。",
     "Tags": [
       "gold saucer",
       "typing",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.14.0/KeyboundPilot-1.0.14.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.14.0/KeyboundPilot-1.0.14.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.14.0/KeyboundPilot-1.0.14.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.15.0/KeyboundPilot-1.0.15.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.15.0/KeyboundPilot-1.0.15.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.15.0/KeyboundPilot-1.0.15.0.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793209322,
-    "Changelog": "1.0.14.0: 「入力調整」にタイプミス送信を追加（初期値オフ）。設定回数±5回で間隔を抽選、ミス送信後も入力を継続。レッドXIIIのカタカナ・半角大文字入力に対応。"
+    "LastUpdate": 1793237924,
+    "Changelog": "1.0.15.0: バックグラウンドモードを追加（初期値オフ）。変換済みの文字を直接入力し、非アクティブ時も入力・周回。通常モードに合わせた入力間隔と確定待ち時間を適用。"
   }
 ]
