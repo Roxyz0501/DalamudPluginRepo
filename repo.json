@@ -384,7 +384,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.16.5",
+    "AssemblyVersion": "1.0.16.6",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.5/KeyboundPilot-1.0.16.5.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.5/KeyboundPilot-1.0.16.5.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.5/KeyboundPilot-1.0.16.5.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.6/KeyboundPilot-1.0.16.6.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.6/KeyboundPilot-1.0.16.6.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.6/KeyboundPilot-1.0.16.6.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793242343,
-    "Changelog": "1.0.16.5: 「視界妨害」に専用の入力間隔と未表示の文字を候補から外す設定を追加。バックグラウンド中の退出対策とデバッグ表示を更新。"
+    "LastUpdate": 1793243784,
+    "Changelog": "1.0.16.6: キーバウンドの無操作退出判定に合わせて退出対策を修正。専用タイマーとリセット結果をデバッグ表示に追加。追加のマウス入力通知を廃止。"
   }
 ]
