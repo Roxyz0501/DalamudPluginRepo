@@ -384,7 +384,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.16.9",
+    "AssemblyVersion": "1.0.16.10",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.9/KeyboundPilot-1.0.16.9.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.9/KeyboundPilot-1.0.16.9.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.9/KeyboundPilot-1.0.16.9.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.10/KeyboundPilot-1.0.16.10.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.10/KeyboundPilot-1.0.16.10.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.10/KeyboundPilot-1.0.16.10.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793270740,
-    "Changelog": "1.0.16.9: 設定の「周回」に「退出までの待機時間」を追加。退出可能になってから待つ時間を0〜60000msで指定でき、スコア記録待ちと同時に数えます。"
+    "LastUpdate": 1793272062,
+    "Changelog": "1.0.16.10: 退出までの待機時間を上下限で指定し、その範囲から毎回ランダムに待つように変更。同じ値なら固定時間になり、現在の設定値は上下限の両方に引き継ぎます。"
   }
 ]
