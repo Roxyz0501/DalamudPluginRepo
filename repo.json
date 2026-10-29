@@ -384,7 +384,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.16.3",
+    "AssemblyVersion": "1.0.16.4",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.3/KeyboundPilot-1.0.16.3.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.3/KeyboundPilot-1.0.16.3.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.3/KeyboundPilot-1.0.16.3.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.4/KeyboundPilot-1.0.16.4.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.4/KeyboundPilot-1.0.16.4.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.4/KeyboundPilot-1.0.16.4.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793240549,
-    "Changelog": "1.0.16.3: 両モードで回答送信時に退出対策のタイマーをリセット。デバッグ表示に各タイマー、リセット結果・回数・経過時間・エリア・状態を追加。"
+    "LastUpdate": 1793240879,
+    "Changelog": "1.0.16.4: タイプミス送信後の文字削除前にフォーカスを再取得。エリア切り替え中の自動開始・入力・送信を待機するよう修正。"
   }
 ]
