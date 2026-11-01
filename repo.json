@@ -384,7 +384,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.17.0",
+    "AssemblyVersion": "1.0.17.1",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.0/KeyboundPilot-1.0.17.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.0/KeyboundPilot-1.0.17.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.0/KeyboundPilot-1.0.17.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.1/KeyboundPilot-1.0.17.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.1/KeyboundPilot-1.0.17.1.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.1/KeyboundPilot-1.0.17.1.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793509456,
-    "Changelog": "1.0.17.0: 周回中のMGC自動交換を追加。交換開始の所持通貨数・予定数・優先度を設定できます。習得系は最大1個で、習得済みはキャラクターごとに除外。交換数0の非表示と、同一アイテムの一括交換にも対応しました。"
+    "LastUpdate": 1793510610,
+    "Changelog": "1.0.17.1: 交換一覧にアイコン・所持数を追加し、ドラッグで優先順位を変更できるようにしました。予定数0の非表示と所持数による除外に対応。所持数は周回開始・交換開始・周回終了時に更新。空き行や絞り込みがある交換一覧の選択判定を修正しました。"
   }
 ]
