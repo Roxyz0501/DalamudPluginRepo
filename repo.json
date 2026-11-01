@@ -384,7 +384,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.16.16",
+    "AssemblyVersion": "1.0.17.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.16/KeyboundPilot-1.0.16.16.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.16/KeyboundPilot-1.0.16.16.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.16.16/KeyboundPilot-1.0.16.16.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.0/KeyboundPilot-1.0.17.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.0/KeyboundPilot-1.0.17.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.0/KeyboundPilot-1.0.17.0.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793369848,
-    "Changelog": "1.0.16.16: スコア履歴を折り畳みなしの一覧表示にし、「自分」の付記を削除。設定に「スコアを記録する」を追加しました（初期値オン）。オフでも保存済みの履歴は残ります。"
+    "LastUpdate": 1793509456,
+    "Changelog": "1.0.17.0: 周回中のMGC自動交換を追加。交換開始の所持通貨数・予定数・優先度を設定できます。習得系は最大1個で、習得済みはキャラクターごとに除外。交換数0の非表示と、同一アイテムの一括交換にも対応しました。"
   }
 ]
