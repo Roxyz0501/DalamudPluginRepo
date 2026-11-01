@@ -384,7 +384,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.17.5",
+    "AssemblyVersion": "1.0.17.6",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.5/KeyboundPilot-1.0.17.5.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.5/KeyboundPilot-1.0.17.5.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.5/KeyboundPilot-1.0.17.5.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.6/KeyboundPilot-1.0.17.6.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.6/KeyboundPilot-1.0.17.6.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.6/KeyboundPilot-1.0.17.6.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793517731,
-    "Changelog": "1.0.17.5: 交換成立時と、所持品・アーマリーチェストのアイテムが増減・移動した際に所持数を更新するようにしました。自動交換がオフでも反映されます。"
+    "LastUpdate": 1793520465,
+    "Changelog": "1.0.17.6: アイテム交換の「習得状況」を「習得・所持状況」に変更し、見出しに合わせて列幅を調整しました。"
   }
 ]
