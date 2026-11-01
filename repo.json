@@ -384,7 +384,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.17.6",
+    "AssemblyVersion": "1.0.17.7",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -398,13 +398,13 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.6/KeyboundPilot-1.0.17.6.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.6/KeyboundPilot-1.0.17.6.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.6/KeyboundPilot-1.0.17.6.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.7/KeyboundPilot-1.0.17.7.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.7/KeyboundPilot-1.0.17.7.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.7/KeyboundPilot-1.0.17.7.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793520465,
-    "Changelog": "1.0.17.6: アイテム交換の「習得状況」を「習得・所持状況」に変更し、見出しに合わせて列幅を調整しました。"
+    "LastUpdate": 1793520748,
+    "Changelog": "1.0.17.7: 収納情報が未取得の場合に装備の所持数まで表示されない不具合を修正しました。確認できた数を表示し、収納分が未取得の場合は「1+」のように区別します。"
   }
 ]
