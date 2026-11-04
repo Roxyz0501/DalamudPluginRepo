@@ -406,5 +406,30 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1793525905,
     "Changelog": "1.0.17.8: 装備の所持数・所持判定を、所持品とアーマリーチェストのみを対象に変更しました。"
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Screenshot Sorter",
+    "InternalName": "ScreenshotSorter",
+    "Punchline": "Separate normal-UI screenshots from Group Pose and hidden-UI shots.",
+    "Description": "Moves FFXIV screenshots taken outside Group Pose with the game UI visible to a folder you choose. Group Pose and hidden-UI screenshots stay in their original folder. Configure with /screenshotsorter. Does not analyze image contents or sort existing files.",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Roxyz0501/ScreenshotSorter",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/ScreenshotSorter/main/ScreenshotSorter/images/icon.png",
+    "Tags": [
+      "screenshot",
+      "gpose",
+      "utility"
+    ],
+    "ApplicableVersion": "any",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/ScreenshotSorter/releases/download/v1.0.0.0/ScreenshotSorter-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/ScreenshotSorter/releases/download/v1.0.0.0/ScreenshotSorter-1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/ScreenshotSorter/releases/download/v1.0.0.0/ScreenshotSorter-1.0.0.0.zip",
+    "RequiredPlugins": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1793778754,
+    "Changelog": "グループポーズ中でもUI非表示中でもないときのFFXIV標準スクリーンショットを指定フォルダーへ振り分けます。/screenshotsorter で設定。同名ファイルの別名保存と7言語に対応。"
   }
 ]
