@@ -250,7 +250,7 @@
     "InternalName": "KuzushiBeacon",
     "Punchline": "PvPの対象選択・崩し・生存支援・戦績記録。",
     "Description": "旧Kuzushi Beacon。ジョブ連動/距離指定の最低HP・最寄り・味方選択、崩し/斬鉄剣、攻撃機会・生存・味方の表示と通知、K/D/A・キルログ・履歴・CSVを統合。個別オンオフ、ジャンル別タブ、通知音量と検証モード。/pvpsupporter で設定。内部ID・既存設定・旧コマンド維持。公開プレビュー：実ゲームでの検知・操作・負荷は未検証です。",
-    "AssemblyVersion": "1.1.0.11",
+    "AssemblyVersion": "1.1.0.12",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Roxyz0501/KuzushiBeacon",
@@ -263,14 +263,14 @@
     ],
     "LoadRequiredState": 0,
     "CanUnloadAsync": false,
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.11/KuzushiBeacon-1.1.0.11.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.11/KuzushiBeacon-1.1.0.11.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.11/KuzushiBeacon-1.1.0.11.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.12/KuzushiBeacon-1.1.0.12.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.12/KuzushiBeacon-1.1.0.12.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KuzushiBeacon/releases/download/v1.1.0.12/KuzushiBeacon-1.1.0.12.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793730475,
-    "Changelog": "斬鉄剣コマンドで選んだ敵に頭上マーカーを表示。自分の斬鉄剣の発動結果を受信した場合に半径5mのリングを表示。ジョブ設定→侍で個別オンオフ・色・サイズ/太さ・高さ・表示時間を調整できます。更新案内の文字化けも修正。"
+    "LastUpdate": 1793984472,
+    "Changelog": "斬鉄剣マクロの頭上マーカーと半径5mのリングが画面端・発動直後の対象消失・連打・画面更新の遅延で欠ける問題を修正しました。"
   },
   {
     "Author": "Roxyz0501",
