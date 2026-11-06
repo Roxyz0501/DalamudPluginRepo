@@ -431,5 +431,30 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1793778754,
     "Changelog": "グループポーズ中でもUI非表示中でもないときのFFXIV標準スクリーンショットを指定フォルダーへ振り分けます。/screenshotsorter で設定。同名ファイルの別名保存と7言語に対応。"
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Vendor Compass",
+    "InternalName": "VendorCompass",
+    "Punchline": "Find NPC vendors from an item’s context menu and travel to their shops.",
+    "Description": "Right-click an item to choose a vendor, mark the map, or travel via an unlocked aetheryte and walk using vnavmesh. Open with /vendorcompass.",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "Tags": [
+      "vendor",
+      "item",
+      "navigation"
+    ],
+    "RepoUrl": "https://github.com/Roxyz0501/VendorCompass",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/VendorCompass/main/VendorCompass/images/icon.png",
+    "AssemblyVersion": "1.0.0.0",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/VendorCompass/releases/download/v1.0.0.0/VendorCompass-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/VendorCompass/releases/download/v1.0.0.0/VendorCompass-1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/VendorCompass/releases/download/v1.0.0.0/VendorCompass-1.0.0.0.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "RequiredPlugins": [],
+    "LastUpdate": 1793992285,
+    "Changelog": "アイテムを右クリックして販売NPCを検索し、地図表示・テレポ・徒歩移動ができます。自動移動にはvnavmeshが必要です。"
   }
 ]
