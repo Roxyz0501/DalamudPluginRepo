@@ -1,3 +1,12 @@
+## 2026-11-16 — Character Archive 1.1.0.1 installation fix
+
+- Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.1.0.1
+- ZIP: https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.1.0.1/CharacterArchive-1.1.0.1.zip
+- Source/tag: `8dff7f414263aae5b162da4d066d48b76f921877`; ZIP 99,119 bytes, four allowlisted files; SHA-256 `61D1A2FF7E80314CD36785F5872E4D2D2D12E2004684E8A3AF86AD1586703527`.
+- User log confirmed successful extraction followed by Reloaded inline hook allocation failure during constructor startup. Replaced the playtime hook with the supported function-pointer-variable API and isolated optional-resource initialization failure. All other features remain available if playtime observation is unavailable; no command is issued then. Original delegate captured before activation for callbacks overlapping disposal.
+- Clean locked-dependency Release rebuild zero warnings/errors. Nine optional-resource fault/lifecycle checks, 43 persistence, 57 review, existing core and seven-language checks passed. Native installation and hook behavior in the live game remain unverified. No installed DLL or production configuration replaced; no game command or packet sent during testing.
+- Anonymous repository/icon HTTP200 (image/png), public ZIP hash/manifest/allowlist verified. Shared index `df0bf840f2b125e0c430e9d85b624110f0b67560`: connector, pinned and normal raw URLs verified at 1.1.0.1; all 16 other entries preserved. Connector used for source/index/records; CLI for unsupported Release/assets and local Git sync.
+
 ## 2026-11-01 - Keybound Pilot 1.0.17.8 equipment ownership scope
 
 - Release: https://github.com/Roxyz0501/KeyboundPilot/releases/tag/v1.0.17.8
