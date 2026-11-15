@@ -28,7 +28,7 @@
     "Author": "Roxyz0501",
     "Name": "Character Archive",
     "InternalName": "CharacterArchive",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.0.1",
     "Description": "Stores logged-in character details, jobs, playtime, Lodestone IDs, and configuration-folder mappings locally, then presents them in a searchable UI and CSV export. Optional external lookup and login-time playtime acquisition require explicit settings.",
     "Punchline": "Manage characters, jobs, playtime, Lodestone profiles, and configuration folders.",
     "Tags": [
@@ -42,12 +42,12 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/CharacterArchive",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CharacterArchive/main/CharacterArchive/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.1.0.0/CharacterArchive-1.1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.1.0.0/CharacterArchive-1.1.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.1.0.1/CharacterArchive-1.1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.1.0.1/CharacterArchive-1.1.0.1.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792907901,
-    "Changelog": "メインクエストの進捗を概要・詳細タブへ追加。受信済み情報の読み取りのみで追加のサーバー照会なし。ロドストの完全一致判定・手入力保護・画像失敗時のID保持、設定復旧、ログイン待機、早期ptime応答、CSV・UI・翻訳を修正。保存43・再点検57・4言語ゲーム定義12検証と基本テスト通過。Release警告0/エラー0。実ゲーム未確認。"
+    "LastUpdate": 1794764337,
+    "Changelog": "インストール時に起動できず失敗する問題を修正。プレイ時間取得を初期化できない場合もキャラクター一覧・メインクエスト進捗・CSVは利用でき、設定画面に再試行方法を表示します。保存済み情報は保持されます。"
   },
   {
     "Author": "Roxyz0501",
