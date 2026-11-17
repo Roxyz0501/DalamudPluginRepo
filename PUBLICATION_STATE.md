@@ -1,3 +1,14 @@
+## 2026-11-17 — Character Archive 1.2.0.1 housing crash mitigation
+
+- Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.2.0.1
+- ZIP: https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.2.0.1/CharacterArchive-1.2.0.1.zip
+- Source/tag: `4e8959942637257e0ac7b4886c5a175b1620aa9c`; ZIP 107,026 bytes; SHA-256 `A58453326D64CE9919E9F3D17864F056CC6576F3BD9E214674290E02FCCF2C5C`; four allowlisted files.
+- Removed the plugin-owned native UI packet hook, original-handler forwarding and raw packet reads implicated by the crash stack. Standard playtime log 859 is observed through IChatGui.LogMessage; bounded/exception-contained scalar copies are queued for normal persistence. Requires Dalamud 15.0.4.0. Exact original target exception/other-plugin contribution remains undetermined from the text crash record.
+- Actual 15.0.4.0 Release build zero warnings/errors; 28 new log-receiver checks plus 9 optional, 18 expansion, 43 persistence, 57 review/core/seven-language checks passed; 112 offline checks passed. Both local and anonymously downloaded runtime DLL metadata contain no old packet callback/hook API references. No live housing reproduction or game command during verification. See CRASH_FIX_2026-11-17.md.
+- Anonymous public ZIP hash/manifest/minimum-runtime/allowlist and repository/icon HTTP200 (image/png) verified. Shared index `3f65f01a1ecef5fb399881668aa2ddd9ce7e1341`, connector, pinned and normal raw URLs verified at 1.2.0.1; all 16 other entries preserved.
+- User additionally explicitly requested replacing the installed copy. Deployed the verified 1.2.0.1 payload while FFXIV was stopped, preserving profile identity/enabled/testing/source flags; installed DLL matches public payload. Previous runtime backed up in ignored artifacts; player configuration untouched. User must launch/retest the same housing entry; no process was launched or closed by the agent.
+- Connector used for source/index/records; CLI only for unsupported Release/assets and local Git synchronization. Internal raw crash/player logs and private local installation artifacts were not published.
+
 ## 2026-11-17 — Character Archive 1.2.0.0 expansion percentages
 
 - Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.2.0.0
