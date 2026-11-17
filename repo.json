@@ -28,7 +28,7 @@
     "Author": "Roxyz0501",
     "Name": "Character Archive",
     "InternalName": "CharacterArchive",
-    "AssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.2.0.0",
     "Description": "Stores logged-in character details, jobs, playtime, Lodestone IDs, and configuration-folder mappings locally, then presents them in a searchable UI and CSV export. Optional external lookup and login-time playtime acquisition require explicit settings.",
     "Punchline": "Manage characters, jobs, playtime, Lodestone profiles, and configuration folders.",
     "Tags": [
@@ -42,12 +42,12 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/CharacterArchive",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CharacterArchive/main/CharacterArchive/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.1.0.1/CharacterArchive-1.1.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.1.0.1/CharacterArchive-1.1.0.1.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.2.0.0/CharacterArchive-1.2.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.2.0.0/CharacterArchive-1.2.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794764337,
-    "Changelog": "インストール時に起動できず失敗する問題を修正。プレイ時間取得を初期化できない場合もキャラクター一覧・メインクエスト進捗・CSVは利用でき、設定画面に再試行方法を表示します。保存済み情報は保持されます。"
+    "LastUpdate": 1794882554,
+    "Changelog": "メインクエストが属する拡張名と、「拡張全体」「.0本編」の進捗率を概要・詳細へ追加。必要なメインクエストの完了件数で計算し、後続パッチと未選択ルートを区別します。保存済み記録はログイン・再取得で更新されます。"
   },
   {
     "Author": "Roxyz0501",
