@@ -1,3 +1,13 @@
+## 2026-11-17 — Character Archive 1.2.0.0 expansion percentages
+
+- Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.2.0.0
+- ZIP: https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.2.0.0/CharacterArchive-1.2.0.0.zip
+- Source/tag: `3b11ac3c6966723b16d259b1ad88cd0190eb47b1`; ZIP 105,338 bytes, four allowlisted files; SHA-256 `68EEB86F6EDE3A23095C94DC7634D990CDDF30AB8BA231FE78AC5E198C520D2D`.
+- Added expansion names plus separate expansion-total and .0 launch-story quest-count percentages in Overview and character details. Required-route OR/AND handling, installed patch chapters, confirmed endpoint completion and unavailable routes are distinguished. Previous optional playtime-hook fix retained.
+- Reused the verified local package after explicit user publication approval on 2026-11-17 resolved the earlier auto-review block. Last clean locked-dependency Release build zero warnings/errors; 18 completion, 9 optional-resource, 43 persistence, 57 review and core/UI-language checks passed; 108 offline checks cover six expansions/four data languages. ZIP DLL matches the tested binary. Unchanged flags: zero extra completion reads; unchanged observations: zero dirty marks. See EXPANSION_PROGRESS_VALIDATION.md.
+- Anonymous repository/icon HTTP200 (image/png), public ZIP hash and packaged version/API15/Author/RepoUrl/IconUrl verified. Shared index `3eac912d88189c11cc28787f8f2ba8ae05e88b9c`, connector, pinned and normal main raw verified at 1.2.0.0; all 16 other entries preserved.
+- Connector used for supported source/index/records; CLI for unsupported Release/assets and local Git synchronization. No installed DLL or player configuration replaced. Native acquisition/layout and physical SSD IO remain unverified.
+
 ## 2026-11-16 — Character Archive 1.1.0.1 installation fix
 
 - Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.1.0.1
