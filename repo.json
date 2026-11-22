@@ -462,24 +462,24 @@
     "Author": "Roxyz0501",
     "Name": "RoxyzsPortal",
     "InternalName": "RoxyzsPortal",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Roxyz0501/RoxyzsPortal",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/RoxyzsPortal/main/images/icon.png",
     "Punchline": "ロキシーの公開プラグインを一覧で確認し、導入・更新できます。",
-    "Description": "アイコン、説明、作成日、最終更新日、配布バージョンを一覧表示します。ダウンロード・更新は対象を選択したDalamudインストーラーで確定できます。 /roxyzsportal",
+    "Description": "アイコン、説明、作成日、最終更新日、配布バージョンを一覧表示します。有効なプラグインの本体・設定画面を一覧から開けます。ダウンロード・更新は対象を選択したDalamudインストーラーで確定できます。 /roxyzsportal",
     "Tags": [
       "portal",
       "catalog",
       "plugins"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/RoxyzsPortal/releases/download/v1.0.0.0/RoxyzsPortal-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RoxyzsPortal/releases/download/v1.0.0.0/RoxyzsPortal-1.0.0.0.zip",
-    "LastUpdate": 1795314971,
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/RoxyzsPortal/releases/download/v1.1.0.0/RoxyzsPortal-1.1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RoxyzsPortal/releases/download/v1.1.0.0/RoxyzsPortal-1.1.0.0.zip",
+    "LastUpdate": 1795337119,
     "CreatedAt": 1795314889,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "Changelog": "アイコン、説明、作成日と最終更新日時を一覧で確認し、各項目からダウンロード・更新画面を開けます。"
+    "Changelog": "プラグイン一覧を折りたたみ式に変更し、対応するプラグインの本体・設定画面を直接開けるようになりました。"
   }
 ]
