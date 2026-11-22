@@ -462,7 +462,7 @@
     "Author": "Roxyz0501",
     "Name": "RoxyzsPortal",
     "InternalName": "RoxyzsPortal",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.0.1",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Roxyz0501/RoxyzsPortal",
@@ -474,12 +474,12 @@
       "catalog",
       "plugins"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/RoxyzsPortal/releases/download/v1.1.0.0/RoxyzsPortal-1.1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RoxyzsPortal/releases/download/v1.1.0.0/RoxyzsPortal-1.1.0.0.zip",
-    "LastUpdate": 1795337119,
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/RoxyzsPortal/releases/download/v1.1.0.1/RoxyzsPortal-1.1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/RoxyzsPortal/releases/download/v1.1.0.1/RoxyzsPortal-1.1.0.1.zip",
+    "LastUpdate": 1795337348,
     "CreatedAt": 1795314889,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "Changelog": "プラグイン一覧を折りたたみ式に変更し、対応するプラグインの本体・設定画面を直接開けるようになりました。"
+    "Changelog": "プラグイン一覧を折りたたみ式に変更し、対応するプラグインの本体・設定画面を直接開けるようになりました。 説明文の漢字と日付の視認性を改善しました。"
   }
 ]
