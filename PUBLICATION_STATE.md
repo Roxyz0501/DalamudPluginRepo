@@ -1,5 +1,12 @@
 ## 2026-11-17 — Character Archive 1.2.0.1 housing crash mitigation
 
+## 2026-11-23 Bait Beacon 1.0.0.4
+
+- Release: https://github.com/Roxyz0501/BaitBeacon/releases/tag/v1.0.0.4
+- Shared information tab with one feature dependency (GatherBuddy Reborn). Canonical helpers unchanged; existing settings retained. 81 checks passed, Release zero warnings/errors. Live-game UI unverified.
+- Source: 7dbb0b5b6c3dff869291c6318195fac2982174f5. Public ZIP SHA256: 77733C5A2D67DB70DD47C4BCFAD4D743217702BBB62CFDF4807028A6E8A13D14; anonymous download hash verified. Repository HTTP200.
+
+
 - Release: https://github.com/Roxyz0501/CharacterArchive/releases/tag/v1.2.0.1
 - ZIP: https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.2.0.1/CharacterArchive-1.2.0.1.zip
 - Source/tag: `4e8959942637257e0ac7b4886c5a175b1620aa9c`; ZIP 107,026 bytes; SHA-256 `A58453326D64CE9919E9F3D17864F056CC6576F3BD9E214674290E02FCCF2C5C`; four allowlisted files.
