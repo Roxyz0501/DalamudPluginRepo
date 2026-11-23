@@ -189,7 +189,7 @@
     "Author": "Roxyz0501",
     "Name": "Command Atlas",
     "InternalName": "CommandAtlas",
-    "AssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.1.0.2",
     "RepoUrl": "https://github.com/Roxyz0501/CommandAtlas",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CommandAtlas/main/CommandAtlas/images/icon.png",
     "Punchline": "Find, run and copy commands grouped by active plugin.",
@@ -202,14 +202,14 @@
       "utility",
       "search"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.1/CommandAtlas-1.1.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.1/CommandAtlas-1.1.0.1.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.1/CommandAtlas-1.1.0.1.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.2/CommandAtlas-1.1.0.2.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.2/CommandAtlas-1.1.0.2.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.2/CommandAtlas-1.1.0.2.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792689254,
-    "Changelog": "設定を60秒ごとの変更時保存へ集約し、ログアウト・終了時に保存。正常3世代バックアップと破損復元を追加。翻訳・アイコン処理を終了時に回収し、3回連続失敗で停止・手動再試行に対応。実ゲーム未検証の公開プレビュー。"
+    "LastUpdate": 1795401440,
+    "Changelog": "共通の情報タブ基盤を採用。外部プラグイン依存0件のため情報タブは非表示。既存設定・コマンド・言語・支援を維持。"
   },
   {
     "Author": "Roxyz0501",
