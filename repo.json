@@ -215,7 +215,7 @@
     "Author": "Roxyz0501",
     "Name": "Gil Ledger",
     "InternalName": "MarketLedger",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.2.0.2",
     "Description": "Gil Ledger (formerly Market Ledger) records confirmed market and ordinary gil-shop purchases per character. Filter by source, character, dates, item, seller, quality and amount; chart spending and export CSV. Unclassified gil decreases and observed transfers are kept separately and excluded from purchase totals by default. Preserves Market Ledger history and settings. /gilledger (also /marketledger). Public preview: live-game acceptance remains unverified.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Roxyz0501/MarketLedger",
@@ -236,14 +236,14 @@
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/MarketLedger/main/MarketLedger/images/icon.png",
     "Punchline": "Track market and NPC purchases, gil spending, sellers and taxes.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.2.0.1/MarketLedger-1.2.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.2.0.1/MarketLedger-1.2.0.1.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.2.0.1/MarketLedger-1.2.0.1.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.2.0.2/MarketLedger-1.2.0.2.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.2.0.2/MarketLedger-1.2.0.2.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/MarketLedger/releases/download/v1.2.0.2/MarketLedger-1.2.0.2.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792906342,
-    "Changelog": "終了時のCSV待機漏れとUIスレッド待機を修正。自動記録停止時の観測済み支出を保持。CSV一時ファイル衝突・空結果のキャンセル、不正な復旧データ、Windowsの暦による日付フィルタのずれを修正。追加11件を含む4,252件の検証成功。実ゲーム検証待ち。"
+    "LastUpdate": 1795401419,
+    "Changelog": "共通の情報タブ表示ルールに対応。外部プラグイン依存が0件のため情報タブは表示されません。既存タブと設定を維持。"
   },
   {
     "Author": "Roxyz0501",
