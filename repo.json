@@ -82,7 +82,7 @@
     "Author": "Roxyz0501",
     "Name": "BGMPlayer",
     "InternalName": "AetherRadio",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "ゲーム内のBGMを選んで再生できます。",
@@ -96,14 +96,14 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.2.0.0/AetherRadio-1.2.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.2.0.0/AetherRadio-1.2.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.2.0.0/AetherRadio-1.2.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.2.1.0/AetherRadio-1.2.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.2.1.0/AetherRadio-1.2.1.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AetherRadio/releases/download/v1.2.1.0/AetherRadio-1.2.1.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "RequiredPlugins": [],
-    "LastUpdate": 1793157898,
-    "Changelog": "メイン・ミニにシークバーを追加。対応曲はWindows既定の出力先で再生し、クリック／ドラッグで移動できます。音量はプレイヤーで調整してください（ゲームの音量・ミュート設定は適用されません）。実ゲーム内の音出しは未確認の公開プレビューです。"
+    "LastUpdate": 1795401481,
+    "Changelog": "共通の情報タブ実装を組み込み。外部プラグイン依存0件のため情報タブは非表示。既存の設定・言語設定・支援タブを維持。"
   },
   {
     "Author": "Roxyz0501",
