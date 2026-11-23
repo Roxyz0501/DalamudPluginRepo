@@ -385,7 +385,7 @@
     "Author": "Roxyz0501",
     "Name": "Keybound Pilot",
     "InternalName": "KeyboundPilot",
-    "AssemblyVersion": "1.0.17.8",
+    "AssemblyVersion": "1.0.17.9",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "キーバウンド・ブロウラーの自動入力と指定回数の周回。",
@@ -399,14 +399,14 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/KeyboundPilot",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/KeyboundPilot/main/KeyboundPilot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.8/KeyboundPilot-1.0.17.8.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.8/KeyboundPilot-1.0.17.8.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.8/KeyboundPilot-1.0.17.8.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.9/KeyboundPilot-1.0.17.9.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.9/KeyboundPilot-1.0.17.9.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/KeyboundPilot/releases/download/v1.0.17.9/KeyboundPilot-1.0.17.9.zip",
     "RequiredPlugins": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1793525905,
-    "Changelog": "1.0.17.8: 装備の所持数・所持判定を、所持品とアーマリーチェストのみを対象に変更しました。"
+    "LastUpdate": 1795401584,
+    "Changelog": "1.0.17.9: Added the shared Information tab for vnavmesh status and installation management."
   },
   {
     "Author": "Roxyz0501",
