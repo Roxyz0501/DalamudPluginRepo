@@ -137,7 +137,7 @@
     "Author": "Roxyz0501",
     "Name": "Allagan Local",
     "InternalName": "AllaganLocalPlugin",
-    "AssemblyVersion": "1.3.0.8",
+    "AssemblyVersion": "1.3.0.9",
     "Description": "Requires Allagan Tools for inventory/gil; AllaganMarket for sales; Gil Ledger (MarketLedger) for purchases. Source plugins must record data. Settings show installed/running status. Includes purchase totals and character filters, CSV exports with saved column presets, and seven interface languages. Starts the local website when loaded; open from settings or /allaganlocal.",
     "Punchline": "Local inventory, gil and market history dashboard",
     "Tags": [
@@ -151,13 +151,13 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/AllaganLocal",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AllaganLocal/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.8/AllaganLocalPlugin-1.3.0.8.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.8/AllaganLocalPlugin-1.3.0.8.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.8/AllaganLocalPlugin-1.3.0.8.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.9/AllaganLocalPlugin-1.3.0.9.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.9/AllaganLocalPlugin-1.3.0.9.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/AllaganLocal/releases/download/v1.3.0.9/AllaganLocalPlugin-1.3.0.9.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794917348,
-    "Changelog": "更新などでプラグインが読み込まれる際に、起動済みのサイトを再起動します。"
+    "LastUpdate": 1795401450,
+    "Changelog": "共通の「情報」タブで、取得元プラグインの状態確認と導入・管理ができます。"
   },
   {
     "Author": "Roxyz0501",
