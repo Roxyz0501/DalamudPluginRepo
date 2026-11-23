@@ -347,14 +347,14 @@
     "RepoUrl": "https://github.com/Roxyz0501/GilBeacon",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/GilBeacon/main/GilBeacon/images/icon.png",
     "RequiredPlugins": [],
-    "AssemblyVersion": "1.0.0.4",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.4/GilBeacon-1.0.0.4.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.4/GilBeacon-1.0.0.4.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.4/GilBeacon-1.0.0.4.zip",
+    "AssemblyVersion": "1.0.0.5",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.5/GilBeacon-1.0.0.5.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.5/GilBeacon-1.0.0.5.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/GilBeacon/releases/download/v1.0.0.5/GilBeacon-1.0.0.5.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792906301,
-    "Changelog": "全体再チェック：商品取得失敗時の旧価格残留、HQ/NQと表示商品IDの照合不足を修正。描画例外は5秒間隔・3回で停止し再試行可能。未対応設定Versionの上書きと不正描画座標を防止。"
+    "LastUpdate": 1795401547,
+    "Changelog": "設定画面のタブ表示を整理しました。外部プラグインの追加導入は不要です。依存プラグインがないため情報タブは表示せず、設定・言語設定・支援の順で利用できます。"
   },
   {
     "Author": "Roxyz0501",
