@@ -75,8 +75,8 @@
     ],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1791733233,
-    "Changelog": "Standardized the rightmost tab order as Settings, Language settings, then Support after every plugin-specific tab. Automation behavior and saved settings are unchanged. In-game rendering remains unverified."
+    "LastUpdate": 1795401539,
+    "Changelog": "Added an Information tab with dependency status, refresh, and click-to-open installation and management. Tab order: Settings, Information, Language settings, Support."
   },
   {
     "Author": "Roxyz0501",
