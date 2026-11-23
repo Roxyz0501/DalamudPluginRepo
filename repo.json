@@ -448,15 +448,15 @@
     ],
     "RepoUrl": "https://github.com/Roxyz0501/VendorCompass",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/VendorCompass/main/VendorCompass/images/icon.png",
-    "AssemblyVersion": "1.0.0.0",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/VendorCompass/releases/download/v1.0.0.0/VendorCompass-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/VendorCompass/releases/download/v1.0.0.0/VendorCompass-1.0.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/VendorCompass/releases/download/v1.0.0.0/VendorCompass-1.0.0.0.zip",
+    "AssemblyVersion": "1.0.0.1",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/VendorCompass/releases/download/v1.0.0.1/VendorCompass-1.0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/VendorCompass/releases/download/v1.0.0.1/VendorCompass-1.0.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/VendorCompass/releases/download/v1.0.0.1/VendorCompass-1.0.0.1.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "RequiredPlugins": [],
-    "LastUpdate": 1793992285,
-    "Changelog": "アイテムを右クリックして販売NPCを検索し、地図表示・テレポ・徒歩移動ができます。自動移動にはvnavmeshが必要です。"
+    "LastUpdate": 1795401573,
+    "Changelog": "情報タブを追加。自動移動に使用するvnavmeshの導入・有効状態を確認し、状態の再確認、導入・管理画面、公式の導入案内を開けます。"
   },
   {
     "Author": "Roxyz0501",
