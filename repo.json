@@ -28,7 +28,7 @@
     "Author": "Roxyz0501",
     "Name": "Character Archive",
     "InternalName": "CharacterArchive",
-    "AssemblyVersion": "1.8.0.1",
+    "AssemblyVersion": "1.9.0.0",
     "Description": "Stores logged-in character details, jobs, playtime, Lodestone IDs, and configuration-folder mappings locally, then presents them in a searchable UI and CSV export. Optional external lookup and login-time playtime acquisition require explicit settings.",
     "Punchline": "Manage characters, jobs, playtime, Lodestone profiles, and configuration folders.",
     "Tags": [
@@ -42,12 +42,12 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Roxyz0501/CharacterArchive",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CharacterArchive/main/CharacterArchive/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.8.0.1/CharacterArchive-1.8.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.8.0.1/CharacterArchive-1.8.0.1.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.9.0.0/CharacterArchive-1.9.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/CharacterArchive/releases/download/v1.9.0.0/CharacterArchive-1.9.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": "1795400247",
-    "Changelog": "Moves the switch button to the left of the portrait.",
+    "LastUpdate": "1795400811",
+    "Changelog": "New Information tab shows plugin requirements, status, installer and setup guide.",
     "MinimumDalamudVersion": "15.0.4.0"
   },
   {
