@@ -277,7 +277,7 @@
     "Author": "Roxyz0501",
     "Name": "PvP Ledger",
     "InternalName": "PvPLedger",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "RepoUrl": "https://github.com/Roxyz0501/PvPLedger",
     "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/PvPLedger/main/PvPLedger/images/icon.png",
     "Punchline": "A quiet personal PvP overlay and match journal.",
@@ -290,14 +290,14 @@
       "history",
       "csv"
     ],
-    "DownloadLinkInstall": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.1/PvPLedger-1.0.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.1/PvPLedger-1.0.0.1.zip",
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.2/PvPLedger-1.0.0.2.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.2/PvPLedger-1.0.0.2.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792633092,
-    "Changelog": "1.0.0.1: Changed-only 60-second settings saves with three backups and recovery; UTC date-partitioned per-match history with legacy compatibility; History files tab; bounded failure handling and shutdown cleanup. Retention unchanged. Actual in-game/native integration and live Discord remain unverified.",
+    "LastUpdate": 1795401488,
+    "Changelog": "共通情報タブに対応。外部プラグイン依存がないため情報タブは非表示。既存の操作は維持。",
     "RequiredPlugins": [],
-    "DownloadLinkTesting": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.1/PvPLedger-1.0.0.1.zip"
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/PvPLedger/releases/download/v1.0.0.2/PvPLedger-1.0.0.2.zip"
   },
   {
     "Author": "Roxyz0501",
