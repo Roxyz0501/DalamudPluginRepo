@@ -1,5 +1,16 @@
 ## 2026-11-17 — Character Archive 1.2.0.1 housing crash mitigation
 
+## 2026-11-23 — Command Atlas 1.1.0.2
+
+- Release: https://github.com/Roxyz0501/CommandAtlas/releases/tag/v1.1.0.2
+- ZIP: https://github.com/Roxyz0501/CommandAtlas/releases/download/v1.1.0.2/CommandAtlas-1.1.0.2.zip
+- Source/tag: `c30496e9b5cf034e62ab787be4569cdae664387b`; ZIP SHA-256: `FB4AC62804240A88E79FB9E3DC17F6DCE205F5F707A67086CD5A4D4ACBC6AB75`.
+- Adopted canonical StandardPluginInfo.cs and StandardPluginTabs.cs byte-for-byte. External plugin dependency definitions are empty; drawInfo is null so no Information tab is rendered. GTranslate is a bundled library, not a plugin dependency.
+- Release build zero warnings/errors; 5,583 isolated UI checks passed. UI harness emitted one MSB3246 reference warning. Native game acceptance remains unverified.
+- Anonymous repository and icon returned HTTP 200 (image/png); public ZIP hash and packaged version/RepoUrl/IconUrl verified.
+- Shared registration: `a1a596c7a0dbdda6568e315dba0e5f70908f1fa5`. Commit-pinned index verified 1.1.0.2 and other entries unchanged by this commit; concurrent unrelated index updates are preserved. Normal main URL initially served CDN-cached 1.1.0.1.
+- Source/index/records use GitHub connector; CLI used for unsupported Release/asset publishing. Installed DLL and production settings untouched.
+
 ## 2026-11-23 — Gil Ledger 1.2.0.2 published
 
 - Release: https://github.com/Roxyz0501/MarketLedger/releases/tag/v1.2.0.2
