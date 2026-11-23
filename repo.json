@@ -481,5 +481,31 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "Changelog": "共通の依存情報タブに対応しました。RoxyzsPortalは単独で利用できるため、情報タブは表示されません。"
+  },
+  {
+    "Author": "Roxyz0501",
+    "Name": "Presence Ledger",
+    "InternalName": "PresenceLedger",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Roxyz0501/PresenceLedger",
+    "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/PresenceLedger/main/images/icon.png",
+    "Punchline": "See when your social contacts log in and out.",
+    "Description": "Local chat notifications and per-character observation times for free company, cross-world linkshell, linkshell and friend contacts. Open /presenceledger. Uses native FC events and available roster data.",
+    "Tags": [
+      "social",
+      "friends",
+      "linkshell",
+      "notifications"
+    ],
+    "DownloadLinkInstall": "https://github.com/Roxyz0501/PresenceLedger/releases/download/v1.0.0.0/PresenceLedger-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Roxyz0501/PresenceLedger/releases/download/v1.0.0.0/PresenceLedger-1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Roxyz0501/PresenceLedger/releases/download/v1.0.0.0/PresenceLedger-1.0.0.0.zip",
+    "CreatedAt": 1795427115,
+    "LastUpdate": 1795427115,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "Changelog": "FC・CWLS・LS・フレンドの入退場通知と、所属別の最終確認時刻を追加しました。"
   }
 ]
